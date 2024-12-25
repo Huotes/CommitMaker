@@ -2,14 +2,15 @@ import os
 from .api_client import obter_frase_meme
 from .logger import registrar_log
 
-REPO_PATH = os.path.dirname(os.path.abspath(__file__))
+# Caminho da raiz do projeto
+REPO_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def atualizar_readme():
     """
     Atualiza o arquivo README.md com uma frase de meme obtida via API.
     """
     try:
-        # Depuração: Exibe o caminho do README.md
+        # Define o caminho para o README.md na raiz do projeto
         readme_path = os.path.join(REPO_PATH, "README.md")
         print(f"📂 Caminho do README.md: {readme_path}")
 
