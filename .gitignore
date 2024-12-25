@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+*.json
+
+# Ambiente Virtual
+venv/
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.~*
