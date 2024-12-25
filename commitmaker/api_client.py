@@ -1,5 +1,5 @@
 import requests
-from logger import registrar_log
+from .logger import registrar_log
 
 def obter_frase_meme():
     try:

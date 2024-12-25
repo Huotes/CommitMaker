@@ -1,7 +1,7 @@
 import os
 import subprocess
 import random
-from logger import registrar_log
+from .logger import registrar_log
 
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 

@@ -1,6 +1,6 @@
 import os
-from api_client import obter_frase_meme
-from logger import registrar_log
+from .api_client import obter_frase_meme
+from .logger import registrar_log
 
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 

@@ -1,6 +1,7 @@
-from commit import realizar_commit
-from readme_updater import atualizar_readme
-from logger import registrar_log
+from .logger import registrar_log
+from .commit import realizar_commit
+from .readme_updater import atualizar_readme
+
 
 def main():
     try:
