@@ -44,3 +44,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 
 Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
+
+Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
