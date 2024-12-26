@@ -48,3 +48,5 @@ Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigge
 Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+
+Chuck Norris's first program was kill -9.
