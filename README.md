@@ -42,3 +42,5 @@ The class object inherits from Chuck Norris
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x764c3979d070>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+
+Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
