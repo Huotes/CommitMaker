@@ -16,3 +16,5 @@ Chuck Norris can compile syntax errors.
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x75cdb65351c0>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+
+Be nice to the nerds; for all you know they might be the next Bill Gates!
