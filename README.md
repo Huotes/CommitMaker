@@ -10,3 +10,5 @@ A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the produ
 Mac users swear by their Mac and PC users swear at their PC.
 
 If Chuck Norris writes code with bugs, the bugs fix themselves.
+
+Chuck Norris can compile syntax errors.
