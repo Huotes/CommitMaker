@@ -32,3 +32,5 @@ When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35,
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+
+Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
