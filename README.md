@@ -36,3 +36,5 @@ Algorith (noun.): Word used by programmers when... they do not want to explain w
 Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79879e661370>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
+
+The class object inherits from Chuck Norris
