@@ -22,3 +22,5 @@ Be nice to the nerds; for all you know they might be the next Bill Gates!
 The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 
 They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+
+When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
