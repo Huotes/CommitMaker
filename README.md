@@ -20,3 +20,5 @@ With the rising cost of gasoline, Chuck Norris is beginning to worry about his d
 Be nice to the nerds; for all you know they might be the next Bill Gates!
 
 The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+
+They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
