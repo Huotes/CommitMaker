@@ -24,3 +24,5 @@ The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 
 When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
+
+Chuck Norris originally appeared in the 'Street Fighter II' video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied 'That's no glitch.'
