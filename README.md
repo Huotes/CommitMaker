@@ -50,3 +50,5 @@ Chuck Norris once shot down a German fighter plane with his finger. By yelling '
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 
 Chuck Norris's first program was kill -9.
+
+Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
