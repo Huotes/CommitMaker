@@ -6,3 +6,5 @@ Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark,
 There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 
 A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
+
+Mac users swear by their Mac and PC users swear at their PC.
