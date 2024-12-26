@@ -30,3 +30,5 @@ Chuck Norris originally appeared in the 'Street Fighter II' video game, but was 
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
+
+Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
