@@ -80,3 +80,5 @@ Chuck Norris has volunteered to remain on earth after the Rapture; he will spend
 Why did the programmer quit his job? Because he didn't get arrays.
 
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+
+The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
