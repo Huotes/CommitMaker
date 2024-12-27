@@ -70,3 +70,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 
 Artificial intelligence usually beats real stupidity.
+
+With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
