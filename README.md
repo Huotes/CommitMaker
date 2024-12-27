@@ -62,3 +62,5 @@ Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: 
 While urinating, Chuck Norris is easily capable of welding titanium.
 
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+
+When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
