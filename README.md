@@ -84,3 +84,5 @@ Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 
 Chuck Norris can unit test entire applications with a single assert.
+
+There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
