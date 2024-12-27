@@ -72,3 +72,5 @@ When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35,
 Artificial intelligence usually beats real stupidity.
 
 With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+
+When Chuck Norris plays Monopoly, it affects the actual world economy.
