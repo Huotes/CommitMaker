@@ -54,3 +54,5 @@ Chuck Norris's first program was kill -9.
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 
 The Internet: where men are men women are men and children are FBI agents.
+
+Chuck Norris sleeps with a pillow under his gun.
