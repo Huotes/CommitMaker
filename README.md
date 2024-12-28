@@ -112,3 +112,5 @@ Chuck Norris has never won an Academy Award for acting... because he's not actin
 Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 Chuck Norris's first program was kill -9.
+
+Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
