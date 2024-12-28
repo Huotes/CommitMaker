@@ -130,3 +130,5 @@ All arrays Chuck Norris declares are of infinite size, because Chuck Norris know
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 
 There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+
+Chuck Norris can install iTunes without installing Quicktime.
