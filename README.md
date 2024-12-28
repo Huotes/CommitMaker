@@ -132,3 +132,5 @@ Chuck Norris once ordered a steak in a restaurant. The steak did what it was tol
 There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 
 Chuck Norris can install iTunes without installing Quicktime.
+
+The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
