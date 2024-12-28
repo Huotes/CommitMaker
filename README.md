@@ -98,3 +98,5 @@ Evolution is God’s way of issuing upgrades.
 All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 
 My software never has bugs. It just develops random features.
+
+Real programmers start counting from 0
