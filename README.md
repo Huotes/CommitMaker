@@ -118,3 +118,5 @@ Most tough men eat nails for breakfast. Chuck Norris does all of his grocery sho
 Chuck Norris can blow bubbles with beef jerky.
 
 Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the 'Circle of Life.'
+
+Chuck Norris can believe it's not butter.
