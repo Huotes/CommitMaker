@@ -134,3 +134,5 @@ There is no theory of evolution, just a list of creatures Chuck Norris allows to
 Chuck Norris can install iTunes without installing Quicktime.
 
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+
+Theres no place like 127.0.0.1
