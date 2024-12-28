@@ -126,3 +126,5 @@ Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire
 What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
 
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+
+Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
