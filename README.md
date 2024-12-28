@@ -108,3 +108,5 @@ Don't fart in an Apple Store, because they don't have Windows.
 Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
 
 Chuck Norris has never won an Academy Award for acting... because he's not acting.
+
+Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
