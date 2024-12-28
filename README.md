@@ -128,3 +128,5 @@ What was going through the minds of all of Chuck Norris' victims before they die
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+
+There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
