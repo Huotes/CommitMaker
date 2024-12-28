@@ -88,3 +88,5 @@ Chuck Norris can unit test entire applications with a single assert.
 There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 
 The class object inherits from Chuck Norris
+
+Chuck Norris sleeps with a pillow under his gun.
