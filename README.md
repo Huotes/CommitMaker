@@ -124,3 +124,5 @@ Chuck Norris can believe it's not butter.
 Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 
 What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
+
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
