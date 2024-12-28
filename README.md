@@ -92,3 +92,5 @@ The class object inherits from Chuck Norris
 Chuck Norris sleeps with a pillow under his gun.
 
 CPU (Coffee Processing Unit)
+
+Evolution is God’s way of issuing upgrades.
