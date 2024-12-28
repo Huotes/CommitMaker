@@ -102,3 +102,5 @@ My software never has bugs. It just develops random features.
 Real programmers start counting from 0
 
 Love does not hurt. Chuck Norris does.
+
+Don't fart in an Apple Store, because they don't have Windows.
