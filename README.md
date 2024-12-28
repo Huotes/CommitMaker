@@ -104,3 +104,5 @@ Real programmers start counting from 0
 Love does not hurt. Chuck Norris does.
 
 Don't fart in an Apple Store, because they don't have Windows.
+
+Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
