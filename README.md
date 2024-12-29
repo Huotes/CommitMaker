@@ -152,3 +152,5 @@ Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 Java programmers are some of the most materialistic people I know, very object-oriented
 
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+
+C://dos  <br>C://dos.run  <br>run.dos.run
