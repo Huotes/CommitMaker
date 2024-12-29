@@ -174,3 +174,5 @@ The grass is always greener on the other side, unless Chuck Norris has been ther
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 
 Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+
+Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
