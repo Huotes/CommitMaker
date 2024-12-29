@@ -166,3 +166,5 @@ If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. A
 The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
 
 In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
+
+Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
