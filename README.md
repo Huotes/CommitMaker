@@ -158,3 +158,5 @@ C://dos  <br>C://dos.run  <br>run.dos.run
 Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 
 Erro ao obter frase de meme da API.
+
+Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
