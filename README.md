@@ -182,3 +182,5 @@ Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and s
 Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
 
 Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
+
+When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
