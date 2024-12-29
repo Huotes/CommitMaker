@@ -176,3 +176,5 @@ Every time someone uses the word 'intense', Chuck Norris always replies 'you kno
 Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
 
 Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
+
+'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
