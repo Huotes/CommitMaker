@@ -180,3 +180,5 @@ Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and s
 'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 
 Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+
+Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
