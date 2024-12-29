@@ -144,3 +144,5 @@ Chuck Norris writes code that optimizes itself.
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+
+When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
