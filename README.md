@@ -160,3 +160,5 @@ Chuck Norris doesn't need a debugger, he just stares down the bug until the code
 Erro ao obter frase de meme da API.
 
 Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+
+If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
