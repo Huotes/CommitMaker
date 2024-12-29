@@ -172,3 +172,5 @@ Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it w
 The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
 
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+
+Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
