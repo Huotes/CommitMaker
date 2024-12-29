@@ -178,3 +178,5 @@ Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, 
 Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
 
 'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+
+Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
