@@ -156,3 +156,5 @@ Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 C://dos  <br>C://dos.run  <br>run.dos.run
 
 Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+
+Erro ao obter frase de meme da API.
