@@ -170,3 +170,5 @@ In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 
 The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+
+Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
