@@ -164,3 +164,5 @@ Chuck Norris once pulled out a single hair from his beard and skewered three men
 If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
 
 The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
+
+In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
