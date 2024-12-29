@@ -138,3 +138,5 @@ The movie 'Delta Force' was extremely hard to make because Chuck had to downplay
 Theres no place like 127.0.0.1
 
 There are no such things as tornados. Chuck Norris just hates trailer parks.
+
+Chuck Norris writes code that optimizes itself.
