@@ -150,3 +150,5 @@ When Chuck Norris sends in his taxes, he sends blank forms and includes only a p
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 
 Java programmers are some of the most materialistic people I know, very object-oriented
+
+Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
