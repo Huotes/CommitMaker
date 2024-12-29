@@ -146,3 +146,5 @@ Chuck Norris once sued Burger King after they refused to put razor wire in his W
 When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 
 When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
+
+Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
