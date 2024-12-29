@@ -142,3 +142,5 @@ There are no such things as tornados. Chuck Norris just hates trailer parks.
 Chuck Norris writes code that optimizes itself.
 
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+
+When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
