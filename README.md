@@ -222,3 +222,5 @@ When Chuck Norris was a baby, he didn't suck his mother's breast. His mother ser
 Chuck Norris can set ants on fire with a magnifying glass. At night.
 
 How does a Programmer COok food ? In O(1)
+
+Programmer (noun.): A machine that turns coffee into code
