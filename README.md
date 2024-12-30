@@ -216,3 +216,5 @@ Chuck Norris sleeps with a pillow under his gun.
 If at first you don't succeed, you're not Chuck Norris.
 
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+
+When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
