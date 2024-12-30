@@ -214,3 +214,5 @@ Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 Chuck Norris sleeps with a pillow under his gun.
 
 If at first you don't succeed, you're not Chuck Norris.
+
+Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
