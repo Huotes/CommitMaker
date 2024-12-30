@@ -228,3 +228,5 @@ Programmer (noun.): A machine that turns coffee into code
 Chuck Norris invented the internet? just so he had a place to store his porn.
 
 Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
+
+If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
