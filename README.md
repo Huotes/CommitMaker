@@ -192,3 +192,5 @@ Why did the chicken cross the road? It was called with theOtherSide(chicken)
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+
+Ninjas want to grow up to be just like Chuck Norris. But usually they grow up just to be killed by Chuck Norris.
