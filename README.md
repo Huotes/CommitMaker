@@ -190,3 +190,5 @@ If, by some incredible space-time paradox, Chuck Norris would ever fight himself
 Why did the chicken cross the road? It was called with theOtherSide(chicken)
 
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+
+Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
