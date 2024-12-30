@@ -212,3 +212,5 @@ Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 
 Chuck Norris sleeps with a pillow under his gun.
+
+If at first you don't succeed, you're not Chuck Norris.
