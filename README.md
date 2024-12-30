@@ -188,3 +188,5 @@ When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eat
 If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 
 Why did the chicken cross the road? It was called with theOtherSide(chicken)
+
+Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
