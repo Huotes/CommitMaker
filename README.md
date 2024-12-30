@@ -206,3 +206,5 @@ For some, the left testicle is larger than the right one. For Chuck Norris, each
 Chuck Norris once round-house kicked a salesman. Over the phone.
 
 There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+
+Contrary to popular belief, there is indeed enough Chuck Norris to go around.
