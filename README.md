@@ -224,3 +224,5 @@ Chuck Norris can set ants on fire with a magnifying glass. At night.
 How does a Programmer COok food ? In O(1)
 
 Programmer (noun.): A machine that turns coffee into code
+
+Chuck Norris invented the internet? just so he had a place to store his porn.
