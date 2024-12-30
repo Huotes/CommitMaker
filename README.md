@@ -202,3 +202,5 @@ I don't see women as objects. I consider each to be in a class of her own.
 Whiteboards are white because Chuck Norris scared them that way.
 
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+
+Chuck Norris once round-house kicked a salesman. Over the phone.
