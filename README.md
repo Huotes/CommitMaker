@@ -226,3 +226,5 @@ How does a Programmer COok food ? In O(1)
 Programmer (noun.): A machine that turns coffee into code
 
 Chuck Norris invented the internet? just so he had a place to store his porn.
+
+Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
