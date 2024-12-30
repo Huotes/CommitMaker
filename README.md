@@ -218,3 +218,5 @@ If at first you don't succeed, you're not Chuck Norris.
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 
 When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
+
+Chuck Norris can set ants on fire with a magnifying glass. At night.
