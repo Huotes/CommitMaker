@@ -220,3 +220,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
 
 Chuck Norris can set ants on fire with a magnifying glass. At night.
+
+How does a Programmer COok food ? In O(1)
