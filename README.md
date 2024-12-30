@@ -194,3 +194,5 @@ Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 
 Ninjas want to grow up to be just like Chuck Norris. But usually they grow up just to be killed by Chuck Norris.
+
+The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
