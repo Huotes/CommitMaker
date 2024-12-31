@@ -272,3 +272,5 @@ Chuck Norris can taste lies.
 When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 
 Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+
+Only Chuck Norris can prevent forest fires.
