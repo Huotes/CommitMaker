@@ -246,3 +246,5 @@ Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norr
 While urinating, Chuck Norris is easily capable of welding titanium.
 
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+
+Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
