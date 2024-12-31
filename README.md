@@ -240,3 +240,5 @@ Once you go Norris, you are physically unable to go back.
 I don't see women as objects. I consider each to be in a class of her own.
 
 If Chuck Norris wants your opinion, he'll beat it into you.
+
+Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
