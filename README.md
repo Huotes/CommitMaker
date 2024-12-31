@@ -254,3 +254,5 @@ Chuck Norris doesn't need to use AJAX because pages are too afraid to postback a
 They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
 
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
+
+Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
