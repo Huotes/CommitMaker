@@ -256,3 +256,5 @@ They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kick
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 
 Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+
+Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
