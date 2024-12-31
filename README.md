@@ -266,3 +266,5 @@ The show Survivor had the original premise of putting people on an island with C
 When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
 
 The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+
+Chuck Norris can taste lies.
