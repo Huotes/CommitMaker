@@ -268,3 +268,5 @@ When Chuck Norris is web surfing websites get the message 'Warning: Internet Exp
 The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 
 Chuck Norris can taste lies.
+
+When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
