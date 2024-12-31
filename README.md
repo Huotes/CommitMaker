@@ -260,3 +260,5 @@ Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 Chuck Norris doesnt wear a watch, HE decides what time it is.
+
+The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
