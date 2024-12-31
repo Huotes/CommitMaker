@@ -274,3 +274,5 @@ When Chuck Norris sends in his taxes, he sends blank forms and includes only a p
 Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 
 Only Chuck Norris can prevent forest fires.
+
+Nobody doesn't like Sara Lee. Except Chuck Norris.
