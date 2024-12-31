@@ -238,3 +238,5 @@ Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer 
 Once you go Norris, you are physically unable to go back.
 
 I don't see women as objects. I consider each to be in a class of her own.
+
+If Chuck Norris wants your opinion, he'll beat it into you.
