@@ -252,3 +252,5 @@ Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag
 Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
 
 They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
+
+It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
