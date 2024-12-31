@@ -248,3 +248,5 @@ While urinating, Chuck Norris is easily capable of welding titanium.
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 
 Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
+
+Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
