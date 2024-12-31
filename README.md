@@ -234,3 +234,5 @@ If, by some incredible space-time paradox, Chuck Norris would ever fight himself
 NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
 
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+
+Once you go Norris, you are physically unable to go back.
