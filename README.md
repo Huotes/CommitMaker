@@ -236,3 +236,5 @@ NT is the only OS that has caused me to beat a piece of hardware to death with m
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 
 Once you go Norris, you are physically unable to go back.
+
+I don't see women as objects. I consider each to be in a class of her own.
