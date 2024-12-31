@@ -264,3 +264,5 @@ Chuck Norris doesnt wear a watch, HE decides what time it is.
 The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
 
 When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
+
+The First rule of Chuck Norris is: you do not talk about Chuck Norris.
