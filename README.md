@@ -258,3 +258,5 @@ It is better to give than to receive. This is especially true of a Chuck Norris 
 Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 
 Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+
+Chuck Norris doesnt wear a watch, HE decides what time it is.
