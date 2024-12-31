@@ -232,3 +232,5 @@ Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 
 NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
+
+Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
