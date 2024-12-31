@@ -276,3 +276,5 @@ Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 Only Chuck Norris can prevent forest fires.
 
 Nobody doesn't like Sara Lee. Except Chuck Norris.
+
+No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
