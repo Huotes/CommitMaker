@@ -292,3 +292,5 @@ The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck N
 Chuck Norris lost his virginity before his dad did.
 
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+
+Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
