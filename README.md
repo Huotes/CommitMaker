@@ -306,3 +306,5 @@ Not everyone that Chuck Norris is mad at gets killed. Some get away. They are ca
 If at first you don't succeed, you're not Chuck Norris.
 
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+
+If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
