@@ -314,3 +314,5 @@ Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by
 Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+
+Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
