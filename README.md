@@ -286,3 +286,5 @@ Chuck Norris knows everything there is to know - Except for the definition of me
 Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
 
 Chuck Norris ordered a Big Mac at Burger King, and got one.
+
+The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
