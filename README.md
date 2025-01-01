@@ -296,3 +296,5 @@ They say curiosity killed the cat. This is false. Chuck Norris killed the cat. E
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 
 4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
+
+Chuck Norris can take a screenshot of his blue screen.
