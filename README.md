@@ -310,3 +310,5 @@ Crop circles are Chuck Norris' way of telling the world that sometimes corn need
 If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
 
 Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
+
+Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
