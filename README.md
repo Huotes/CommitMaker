@@ -294,3 +294,5 @@ Chuck Norris lost his virginity before his dad did.
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+
+4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
