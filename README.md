@@ -280,3 +280,5 @@ Nobody doesn't like Sara Lee. Except Chuck Norris.
 No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
 
 The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
+
+Chuck Norris knows everything there is to know - Except for the definition of mercy.
