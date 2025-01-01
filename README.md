@@ -284,3 +284,5 @@ The best-laid plans of mice and men often go awry. Even the worst-laid plans of 
 Chuck Norris knows everything there is to know - Except for the definition of mercy.
 
 Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
+
+Chuck Norris ordered a Big Mac at Burger King, and got one.
