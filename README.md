@@ -302,3 +302,5 @@ Chuck Norris can take a screenshot of his blue screen.
 Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 
 Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+
+If at first you don't succeed, you're not Chuck Norris.
