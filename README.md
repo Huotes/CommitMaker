@@ -318,3 +318,5 @@ Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallow
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
