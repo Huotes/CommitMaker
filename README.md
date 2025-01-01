@@ -290,3 +290,5 @@ Chuck Norris ordered a Big Mac at Burger King, and got one.
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 
 Chuck Norris lost his virginity before his dad did.
+
+They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
