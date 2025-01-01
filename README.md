@@ -320,3 +320,5 @@ Latest survey shows that 3 out of 4 people make up 75% of the world’s populati
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+
+I've got a really good UDP joke to tell you, but i don't know if you'll get it
