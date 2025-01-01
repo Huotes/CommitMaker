@@ -312,3 +312,5 @@ If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. A
 Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
 
 Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
+
+Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
