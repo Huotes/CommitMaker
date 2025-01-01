@@ -326,3 +326,5 @@ I've got a really good UDP joke to tell you, but i don't know if you'll get it
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 Why do Java programmers have to wear glasses? Because they don't C#.
+
+Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face.
