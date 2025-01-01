@@ -322,3 +322,5 @@ The movie 'Delta Force' was extremely hard to make because Chuck had to downplay
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 I've got a really good UDP joke to tell you, but i don't know if you'll get it
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
