@@ -330,3 +330,5 @@ Why do Java programmers have to wear glasses? Because they don't C#.
 Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+I’m not anti-social; I’m just not user friendly.
