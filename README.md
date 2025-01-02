@@ -360,3 +360,5 @@ As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Sto
 Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
 
 Computers are like air conditioners: they stop working when you open Windows.
+
+In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
