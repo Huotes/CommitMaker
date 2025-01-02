@@ -366,3 +366,5 @@ In an average living room there are 1,242 objects Chuck Norris could use to kill
 Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 
 Chuck Norris doesn't use reflection, reflection asks politely for his help.
+
+Failure is not an option. It comes bundled with your Microsoft product.
