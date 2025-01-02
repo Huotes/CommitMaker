@@ -344,3 +344,5 @@ NT is the only OS that has caused me to beat a piece of hardware to death with m
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
 
 182,000 Americans die from Chuck Norris-related accidents every year.
+
+Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
