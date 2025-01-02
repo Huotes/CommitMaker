@@ -372,3 +372,5 @@ Failure is not an option. It comes bundled with your Microsoft product.
 Chuck Norris writes code that optimizes itself.
 
 Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+
+Chuck Norris once won a game of connect four in 3 moves.
