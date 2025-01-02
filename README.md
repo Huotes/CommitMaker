@@ -370,3 +370,5 @@ Chuck Norris doesn't use reflection, reflection asks politely for his help.
 Failure is not an option. It comes bundled with your Microsoft product.
 
 Chuck Norris writes code that optimizes itself.
+
+Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
