@@ -356,3 +356,5 @@ For some, the left testicle is larger than the right one. For Chuck Norris, each
 There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
 
 As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
+
+Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
