@@ -374,3 +374,5 @@ Chuck Norris writes code that optimizes itself.
 Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 
 Chuck Norris once won a game of connect four in 3 moves.
+
+Chuck Norris cannot love, he can only not kill.
