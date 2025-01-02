@@ -348,3 +348,5 @@ Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day
 Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
 
 Chuck Norris doesn't shower, he only takes blood baths.
+
+For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
