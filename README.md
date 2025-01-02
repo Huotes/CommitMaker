@@ -362,3 +362,5 @@ Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly ret
 Computers are like air conditioners: they stop working when you open Windows.
 
 In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+
+Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
