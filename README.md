@@ -354,3 +354,5 @@ For some, the left testicle is larger than the right one. For Chuck Norris, each
 99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 
 There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
+
+As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
