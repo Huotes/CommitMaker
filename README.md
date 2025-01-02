@@ -346,3 +346,5 @@ Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day
 182,000 Americans die from Chuck Norris-related accidents every year.
 
 Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+
+Chuck Norris doesn't shower, he only takes blood baths.
