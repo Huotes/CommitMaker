@@ -358,3 +358,5 @@ There are only 10 types of people in the world: those that understand binary, th
 As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
 
 Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
+
+Computers are like air conditioners: they stop working when you open Windows.
