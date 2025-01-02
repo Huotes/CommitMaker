@@ -334,3 +334,5 @@ Whiteboards are white because Chuck Norris scared them that way.
 I’m not anti-social; I’m just not user friendly.
 
 Linux: Born to be root. Windows: Born to re-boot
+
+Why does a burger have less energy than a steak? A burger is in its ground state.
