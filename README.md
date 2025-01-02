@@ -338,3 +338,5 @@ Linux: Born to be root. Windows: Born to re-boot
 Why does a burger have less energy than a steak? A burger is in its ground state.
 
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+
+NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
