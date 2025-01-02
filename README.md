@@ -368,3 +368,5 @@ Michael Sinz: “Programming is like sex... one mistake and you have to support 
 Chuck Norris doesn't use reflection, reflection asks politely for his help.
 
 Failure is not an option. It comes bundled with your Microsoft product.
+
+Chuck Norris writes code that optimizes itself.
