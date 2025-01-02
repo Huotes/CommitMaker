@@ -332,3 +332,5 @@ Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make 
 Whiteboards are white because Chuck Norris scared them that way.
 
 I’m not anti-social; I’m just not user friendly.
+
+Linux: Born to be root. Windows: Born to re-boot
