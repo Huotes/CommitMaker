@@ -386,3 +386,5 @@ Some kids play Kick the can. Chuck Norris played Kick the keg.
 How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 
 The class object inherits from Chuck Norris
+
+Evolution is God’s way of issuing upgrades.
