@@ -416,3 +416,5 @@ In an act of great philanthropy, Chuck made a generous donation to the American 
 There are only 10 types of people in the world: those that understand binary and those that don’t.
 
 Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+
+Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
