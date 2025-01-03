@@ -408,3 +408,5 @@ Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
 Chuck Norris can retrieve anything from /dev/null.
 
 All wiyht. Rho sritched mg kegtops awound?
+
+Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
