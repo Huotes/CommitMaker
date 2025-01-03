@@ -380,3 +380,5 @@ Chuck Norris cannot love, he can only not kill.
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 
 My attitude isn’t bad. It’s in beta.
+
+Some kids play Kick the can. Chuck Norris played Kick the keg.
