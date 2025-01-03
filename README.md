@@ -404,3 +404,5 @@ Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, 
 Chuck Norris can delete the Recycling Bin.
 
 Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
+
+Chuck Norris can retrieve anything from /dev/null.
