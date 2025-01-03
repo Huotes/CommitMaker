@@ -388,3 +388,5 @@ How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of 
 The class object inherits from Chuck Norris
 
 Evolution is God’s way of issuing upgrades.
+
+Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
