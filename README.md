@@ -394,3 +394,5 @@ Chuck Norris is responsible for China's over-population. He hosted a Karate tour
 Chuck Norris doesn't use web standards as the web will conform to him.
 
 The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+
+Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
