@@ -412,3 +412,5 @@ All wiyht. Rho sritched mg kegtops awound?
 Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
 
 In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
+
+There are only 10 types of people in the world: those that understand binary and those that don’t.
