@@ -406,3 +406,5 @@ Chuck Norris can delete the Recycling Bin.
 Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
 
 Chuck Norris can retrieve anything from /dev/null.
+
+All wiyht. Rho sritched mg kegtops awound?
