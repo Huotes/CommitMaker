@@ -422,3 +422,5 @@ Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and 
 Chuck Norris was once in a knife fight, and the knife lost.
 
 Chuck Norris can set ants on fire with a magnifying glass. At night.
+
+On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
