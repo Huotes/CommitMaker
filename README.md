@@ -402,3 +402,5 @@ When Chuck Norris sends in his taxes, he sends blank forms and includes only a p
 Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
 
 Chuck Norris can delete the Recycling Bin.
+
+Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
