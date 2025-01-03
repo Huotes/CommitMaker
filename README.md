@@ -396,3 +396,5 @@ Chuck Norris doesn't use web standards as the web will conform to him.
 The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
 
 Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+
+When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
