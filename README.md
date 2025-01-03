@@ -420,3 +420,5 @@ Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were kil
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 
 Chuck Norris was once in a knife fight, and the knife lost.
+
+Chuck Norris can set ants on fire with a magnifying glass. At night.
