@@ -382,3 +382,5 @@ For some, the left testicle is larger than the right one. For Chuck Norris, each
 My attitude isn’t bad. It’s in beta.
 
 Some kids play Kick the can. Chuck Norris played Kick the keg.
+
+How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
