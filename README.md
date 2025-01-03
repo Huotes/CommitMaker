@@ -378,3 +378,5 @@ Chuck Norris once won a game of connect four in 3 moves.
 Chuck Norris cannot love, he can only not kill.
 
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+
+My attitude isn’t bad. It’s in beta.
