@@ -470,3 +470,5 @@ Chuck Norris is currently suing myspace for taking the name of what he calls eve
 Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
 
 Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+
+I told him I can't open the jar, he said download and install Java
