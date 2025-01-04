@@ -464,3 +464,5 @@ Maslow's theory of higher needs does not apply to Chuck Norris. He only has two 
 There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 
 How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
+
+Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
