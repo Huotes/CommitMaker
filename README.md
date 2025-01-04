@@ -458,3 +458,5 @@ Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer 
 Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+
+Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
