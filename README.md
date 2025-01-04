@@ -440,3 +440,5 @@ Chuck Norris invented black. In fact, he invented the entire spectrum of visible
 Don't fart in an Apple Store, because they don't have Windows.
 
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7c8e626b6360>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
+
+Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
