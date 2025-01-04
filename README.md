@@ -430,3 +430,5 @@ Chuck Norris wears a live rattlesnake as a condom.
 Chuck Norris once ate four 30lb bowling balls without chewing.
 
 Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+
+If you spell Chuck Norris in Scrabble, you win. Forever.
