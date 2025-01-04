@@ -466,3 +466,5 @@ There is no theory of evolution, just a list of creatures Chuck Norris allows to
 How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
 
 Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+
+Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
