@@ -444,3 +444,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 
 For Chuck Norris, NP-Hard = O(1).
+
+Mr. T pities the fool. Chuck Norris rips the fool's head off.
