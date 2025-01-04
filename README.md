@@ -446,3 +446,5 @@ Maslow's theory of higher needs does not apply to Chuck Norris. He only has two 
 For Chuck Norris, NP-Hard = O(1).
 
 Mr. T pities the fool. Chuck Norris rips the fool's head off.
+
+All wiyht. Rho sritched mg kegtops awound?
