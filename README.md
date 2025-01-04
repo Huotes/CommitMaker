@@ -436,3 +436,5 @@ If you spell Chuck Norris in Scrabble, you win. Forever.
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 
 Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
+
+Don't fart in an Apple Store, because they don't have Windows.
