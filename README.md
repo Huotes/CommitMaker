@@ -462,3 +462,5 @@ Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her i
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 
 There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+
+How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
