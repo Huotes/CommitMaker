@@ -454,3 +454,5 @@ Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
 Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
 
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+
+Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
