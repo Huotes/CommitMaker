@@ -460,3 +460,5 @@ Science Fact: Roundhouse kicks are comprised primarily of an element called Chuc
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+
+There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
