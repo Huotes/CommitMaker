@@ -456,3 +456,5 @@ Chuck Norris can do a roundhouse kick faster than the speed of light. This means
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 
 Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
+
+Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
