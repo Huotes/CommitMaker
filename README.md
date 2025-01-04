@@ -448,3 +448,5 @@ For Chuck Norris, NP-Hard = O(1).
 Mr. T pities the fool. Chuck Norris rips the fool's head off.
 
 All wiyht. Rho sritched mg kegtops awound?
+
+Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
