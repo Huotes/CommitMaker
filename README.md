@@ -498,3 +498,5 @@ In a world without fences and walls... who needs Gates and Windows?
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 
 UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+
+Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
