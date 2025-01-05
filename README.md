@@ -504,3 +504,5 @@ Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is u
 Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 
 Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
+
+Whiteboards are white because Chuck Norris scared them that way.
