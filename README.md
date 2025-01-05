@@ -488,3 +488,5 @@ How many roundhouse kicks does it take to get to the center of a tootsie pop? Ju
 Chuck Norris sheds his skin twice a year.
 
 Chuck Norris can't test for equality because he has no equal.
+
+Newton's Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
