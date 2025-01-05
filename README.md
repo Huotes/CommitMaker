@@ -514,3 +514,5 @@ In an act of great philanthropy, Chuck made a generous donation to the American 
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 
 Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+
+What does a subatomic duck say? Quark.
