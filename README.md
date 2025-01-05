@@ -516,3 +516,5 @@ Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pse
 Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 
 What does a subatomic duck say? Quark.
+
+Chuck Norris can lead a horse to water AND make it drink.
