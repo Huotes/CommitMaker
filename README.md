@@ -512,3 +512,5 @@ Most tough men eat nails for breakfast. Chuck Norris does all of his grocery sho
 In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
 
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+
+Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
