@@ -500,3 +500,5 @@ It is better to give than to receive. This is especially true of a Chuck Norris 
 UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
+
+Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
