@@ -480,3 +480,5 @@ All wiyht. Rho sritched mg kegtops awound?
 Chuck Norris once rode a bull, and nine months later it had a calf.
 
 Chuck Norris invented the internet? just so he had a place to store his porn.
+
+Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
