@@ -478,3 +478,5 @@ Count from one to ten. That's how long it would take Chuck Norris to kill you...
 All wiyht. Rho sritched mg kegtops awound?
 
 Chuck Norris once rode a bull, and nine months later it had a calf.
+
+Chuck Norris invented the internet? just so he had a place to store his porn.
