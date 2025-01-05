@@ -502,3 +502,5 @@ UNIX is basically a simple operating system... but you have to be a genius to un
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 
 Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+
+Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
