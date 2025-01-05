@@ -496,3 +496,5 @@ Along with his black belt, Chuck Norris often chooses to wear brown shoes. No on
 In a world without fences and walls... who needs Gates and Windows?
 
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
+
+UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
