@@ -486,3 +486,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
 
 Chuck Norris sheds his skin twice a year.
+
+Chuck Norris can't test for equality because he has no equal.
