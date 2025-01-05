@@ -508,3 +508,5 @@ Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
 Whiteboards are white because Chuck Norris scared them that way.
 
 Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+
+In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
