@@ -562,3 +562,5 @@ When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He
 Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
 
 Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
+
+Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
