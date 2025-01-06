@@ -550,3 +550,5 @@ Evolution is God’s way of issuing upgrades.
 In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 
 Chuck Norris wears a live rattlesnake as a condom.
+
+Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
