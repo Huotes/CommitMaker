@@ -524,3 +524,5 @@ The opening scene of the movie 'Saving Private Ryan' is loosely based on games o
 Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+
+Chuck Norris has 12 moons. One of those moons is the Earth.
