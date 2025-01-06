@@ -530,3 +530,5 @@ Chuck Norris has 12 moons. One of those moons is the Earth.
 Chuck Norris does not teabag the ladies. He potato-sacks them.
 
 Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+
+The quickest way to a man's heart is with Chuck Norris' fist.
