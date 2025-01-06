@@ -520,3 +520,5 @@ What does a subatomic duck say? Quark.
 Chuck Norris can lead a horse to water AND make it drink.
 
 The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
+
+Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
