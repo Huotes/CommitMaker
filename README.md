@@ -544,3 +544,5 @@ Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire
 Be nice to the nerds; for all you know they might be the next Bill Gates!
 
 The quickest way to a man's heart is with Chuck Norris' fist.
+
+Evolution is God’s way of issuing upgrades.
