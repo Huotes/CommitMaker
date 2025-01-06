@@ -542,3 +542,5 @@ The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment 
 Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 
 Be nice to the nerds; for all you know they might be the next Bill Gates!
+
+The quickest way to a man's heart is with Chuck Norris' fist.
