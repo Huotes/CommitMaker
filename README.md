@@ -564,3 +564,5 @@ Chuck Norris once roundhouse kicked someone so hard that his foot broke the spee
 Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
 
 Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
+
+There are only 10 types of people in the world: those that understand binary and those that don’t.
