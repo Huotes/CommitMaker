@@ -534,3 +534,5 @@ Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norr
 The quickest way to a man's heart is with Chuck Norris' fist.
 
 The Bible was originally titled 'Chuck Norris and Friends'
+
+When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
