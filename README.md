@@ -538,3 +538,5 @@ The Bible was originally titled 'Chuck Norris and Friends'
 When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
 
 The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+
+Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
