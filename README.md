@@ -600,3 +600,5 @@ Chuck Norris's beard can type 140 wpm.
 If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 
 Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
+
+Evolution is God’s way of issuing upgrades.
