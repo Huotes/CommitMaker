@@ -588,3 +588,5 @@ How do you tell an introverted computer scientist from an extroverted computer s
 MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
 
 The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+
+Hellen Keller's favorite color is Chuck Norris.
