@@ -594,3 +594,5 @@ Hellen Keller's favorite color is Chuck Norris.
 The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
 
 The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
+
+Chuck Norris's beard can type 140 wpm.
