@@ -614,3 +614,5 @@ Maslow's theory of higher needs does not apply to Chuck Norris. He only has two 
 In the medical community, death is referred to as 'Chuck Norris Disease'
 
 The truth is out there. Anybody got the URL?
+
+An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
