@@ -610,3 +610,5 @@ Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is th
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+
+In the medical community, death is referred to as 'Chuck Norris Disease'
