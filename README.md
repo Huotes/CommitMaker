@@ -578,3 +578,5 @@ It is believed dinosaurs are extinct due to a giant meteor. That's true if you w
 E-mail returned to sender... insufficient voltage.
 
 Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+
+A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
