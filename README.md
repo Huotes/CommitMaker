@@ -604,3 +604,5 @@ Chuck Norris does not follow fashion trends, they follow him. But then he turns 
 Evolution is God’s way of issuing upgrades.
 
 I have a good joke on Information Technology, but you won't get IT
+
+Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
