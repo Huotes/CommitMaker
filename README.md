@@ -608,3 +608,5 @@ I have a good joke on Information Technology, but you won't get IT
 Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+
+Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
