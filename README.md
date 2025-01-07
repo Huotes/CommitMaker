@@ -582,3 +582,5 @@ Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
+
+How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
