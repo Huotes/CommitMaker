@@ -596,3 +596,5 @@ The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Wal
 The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 
 Chuck Norris's beard can type 140 wpm.
+
+If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
