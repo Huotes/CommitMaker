@@ -568,3 +568,5 @@ Chuck Norris once roundhouse kicked someone so hard that his foot broke the spee
 There are only 10 types of people in the world: those that understand binary and those that don’t.
 
 In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+
+There are only 10 types of people in the world: those that understand binary and those that don’t.
