@@ -602,3 +602,5 @@ If tapped, a Chuck Norris roundhouse kick could power the country of Australia f
 Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
 
 Evolution is God’s way of issuing upgrades.
+
+I have a good joke on Information Technology, but you won't get IT
