@@ -576,3 +576,5 @@ It is said that looking into Chuck Norris' eyes will reveal your future. Unfortu
 It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
 
 E-mail returned to sender... insufficient voltage.
+
+Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
