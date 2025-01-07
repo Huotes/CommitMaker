@@ -584,3 +584,5 @@ A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the produ
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
 
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+
+MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
