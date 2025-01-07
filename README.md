@@ -590,3 +590,5 @@ MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can 
 The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 
 Hellen Keller's favorite color is Chuck Norris.
+
+The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
