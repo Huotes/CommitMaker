@@ -570,3 +570,5 @@ There are only 10 types of people in the world: those that understand binary and
 In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 
 There are only 10 types of people in the world: those that understand binary and those that don’t.
+
+It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
