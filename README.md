@@ -572,3 +572,5 @@ In an average living room there are 1,242 objects Chuck Norris could use to kill
 There are only 10 types of people in the world: those that understand binary and those that don’t.
 
 It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
+
+It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
