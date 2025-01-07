@@ -586,3 +586,5 @@ The beginning of the programmer’s wisdom is understanding the difference betwe
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 
 MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
+
+The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
