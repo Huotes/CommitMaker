@@ -654,3 +654,5 @@ Linus Torvalds: “Real men don’t use backups... they post their stuff on a pu
 Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 
 I've got a really good UDP joke to tell you, but i don't know if you'll get it
+
+How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
