@@ -658,3 +658,5 @@ I've got a really good UDP joke to tell you, but i don't know if you'll get it
 How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 
 Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+
+Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
