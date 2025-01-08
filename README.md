@@ -626,3 +626,5 @@ Penguins love cold... they wont survive the sun.
 Chuck Norris once won a game of connect four in 3 moves.
 
 When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
+
+It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
