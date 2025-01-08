@@ -660,3 +660,5 @@ How many theoretical physicists does it take to screw in a light bulb? Two. One 
 Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 
 Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
+
+Mr. T pities the fool. Chuck Norris rips the fool's head off.
