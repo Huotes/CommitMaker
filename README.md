@@ -652,3 +652,5 @@ If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'.
 Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 
 Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+
+I've got a really good UDP joke to tell you, but i don't know if you'll get it
