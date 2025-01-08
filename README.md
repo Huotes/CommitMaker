@@ -622,3 +622,5 @@ In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attentio
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 Penguins love cold... they wont survive the sun.
+
+Chuck Norris once won a game of connect four in 3 moves.
