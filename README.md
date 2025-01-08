@@ -646,3 +646,5 @@ Chuck Norris eats steak for every single meal. Most times he forgets to kill the
 The Internet: where men are men women are men and children are FBI agents.
 
 Chuck Norris doesn't believe in Germany.
+
+If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
