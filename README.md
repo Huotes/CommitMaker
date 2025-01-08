@@ -640,3 +640,5 @@ Chuck Norris doesn't use reflection, reflection asks politely for his help.
 Chuck Norris does not own a house. He walks into random houses and people move.
 
 Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
+
+Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
