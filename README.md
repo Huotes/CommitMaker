@@ -644,3 +644,5 @@ Chuck Norris once roundhouse kicked someone so hard that his foot broke the spee
 Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 
 The Internet: where men are men women are men and children are FBI agents.
+
+Chuck Norris doesn't believe in Germany.
