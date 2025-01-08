@@ -618,3 +618,5 @@ The truth is out there. Anybody got the URL?
 An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
