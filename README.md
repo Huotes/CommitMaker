@@ -624,3 +624,5 @@ Chuck Norris once sued Burger King after they refused to put razor wire in his W
 Penguins love cold... they wont survive the sun.
 
 Chuck Norris once won a game of connect four in 3 moves.
+
+When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
