@@ -630,3 +630,5 @@ When Chuck Norris goes to donate blood, he declines the syringe, and instead req
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 
 Chuck Norris once won a game of connect four in 3 moves.
+
+Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
