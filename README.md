@@ -636,3 +636,5 @@ Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from h
 As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
 
 Chuck Norris doesn't use reflection, reflection asks politely for his help.
+
+Chuck Norris does not own a house. He walks into random houses and people move.
