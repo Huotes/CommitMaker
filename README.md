@@ -632,3 +632,5 @@ It is better to give than to receive. This is especially true of a Chuck Norris 
 Chuck Norris once won a game of connect four in 3 moves.
 
 Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
+
+As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
