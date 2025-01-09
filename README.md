@@ -690,3 +690,5 @@ Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark,
 Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 
 The only pattern Chuck Norris knows is God Object.
+
+Hellen Keller's favorite color is Chuck Norris.
