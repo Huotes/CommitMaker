@@ -682,3 +682,5 @@ Chuck Norris once participated in the running of the bulls. He walked.
 A foo walks into a bar, takes a look around and says 'Hello World!'.
 
 Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+
+To be or not to be? That is the question. The answer? Chuck Norris.
