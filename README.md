@@ -708,3 +708,5 @@ Why does a burger have less energy than a steak? A burger is in its ground state
 Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 
 Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+
+Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
