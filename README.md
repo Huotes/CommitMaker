@@ -692,3 +692,5 @@ Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grai
 The only pattern Chuck Norris knows is God Object.
 
 Hellen Keller's favorite color is Chuck Norris.
+
+Chuck Norris is his own line at the DMV.
