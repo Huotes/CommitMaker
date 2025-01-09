@@ -672,3 +672,5 @@ The Great Wall of China was originally created to keep Chuck Norris out. It fail
 Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 
 CPU (Coffee Processing Unit)
+
+If at first you don't succeed, you're not Chuck Norris.
