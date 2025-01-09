@@ -670,3 +670,5 @@ If at first you don’t succeed; call it version 1.0.
 The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 
 Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
+
+CPU (Coffee Processing Unit)
