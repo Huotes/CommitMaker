@@ -702,3 +702,5 @@ Chuck Norris ordered a Big Mac at Burger King, and got one.
 Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
 
 Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+
+Why does a burger have less energy than a steak? A burger is in its ground state.
