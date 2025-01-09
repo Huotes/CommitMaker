@@ -684,3 +684,5 @@ A foo walks into a bar, takes a look around and says 'Hello World!'.
 Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
 
 To be or not to be? That is the question. The answer? Chuck Norris.
+
+Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
