@@ -688,3 +688,5 @@ To be or not to be? That is the question. The answer? Chuck Norris.
 Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 
 Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+
+The only pattern Chuck Norris knows is God Object.
