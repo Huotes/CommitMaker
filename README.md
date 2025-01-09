@@ -664,3 +664,5 @@ Chuck Norris invented black. In fact, he invented the entire spectrum of visible
 Mr. T pities the fool. Chuck Norris rips the fool's head off.
 
 When Chuck Norris throws exceptions, it's across the room.
+
+If at first you don’t succeed; call it version 1.0.
