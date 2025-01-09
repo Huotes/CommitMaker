@@ -704,3 +704,5 @@ Behind every successful man, there is a woman. Behind every dead man, there is C
 Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
 
 Why does a burger have less energy than a steak? A burger is in its ground state.
+
+Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
