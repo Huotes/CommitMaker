@@ -674,3 +674,5 @@ Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 CPU (Coffee Processing Unit)
 
 If at first you don't succeed, you're not Chuck Norris.
+
+A UDP packet walks into a bar. The bartender doesn't acknowledge him.
