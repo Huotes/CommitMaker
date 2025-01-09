@@ -666,3 +666,5 @@ Mr. T pities the fool. Chuck Norris rips the fool's head off.
 When Chuck Norris throws exceptions, it's across the room.
 
 If at first you don’t succeed; call it version 1.0.
+
+The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
