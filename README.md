@@ -678,3 +678,5 @@ If at first you don't succeed, you're not Chuck Norris.
 A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 
 Chuck Norris once participated in the running of the bulls. He walked.
+
+A foo walks into a bar, takes a look around and says 'Hello World!'.
