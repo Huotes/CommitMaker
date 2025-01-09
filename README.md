@@ -696,3 +696,5 @@ Hellen Keller's favorite color is Chuck Norris.
 Chuck Norris is his own line at the DMV.
 
 Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
+
+Chuck Norris ordered a Big Mac at Burger King, and got one.
