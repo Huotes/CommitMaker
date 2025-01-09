@@ -710,3 +710,5 @@ Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
 
 Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+
+The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
