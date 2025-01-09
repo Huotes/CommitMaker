@@ -686,3 +686,5 @@ Chuck Norris never goes to the dentist because his teeth are unbreakable. His en
 To be or not to be? That is the question. The answer? Chuck Norris.
 
 Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+
+Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
