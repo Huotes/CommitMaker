@@ -716,3 +716,5 @@ The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhous
 Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
 
 Computers make very fast and very accurate mistakes.
+
+Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
