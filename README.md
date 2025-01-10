@@ -724,3 +724,5 @@ The beginning of the programmer’s wisdom is understanding the difference betwe
 Chuck Norris plays racquetball with a waffle iron and a bowling ball.
 
 Artificial intelligence usually beats real stupidity.
+
+When Chuck Norris wants an egg, he cracks open a chicken.
