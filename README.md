@@ -720,3 +720,5 @@ Computers make very fast and very accurate mistakes.
 Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
 
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
+
+Chuck Norris plays racquetball with a waffle iron and a bowling ball.
