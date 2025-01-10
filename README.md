@@ -718,3 +718,5 @@ Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were kil
 Computers make very fast and very accurate mistakes.
 
 Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
+
+The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
