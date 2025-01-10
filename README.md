@@ -752,3 +752,5 @@ Chuck Norris programs do not accept input.
 The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 
 Chuck Norris crossed the road. No one has ever dared question his motives.
+
+Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
