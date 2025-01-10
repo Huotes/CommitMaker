@@ -744,3 +744,5 @@ Crime does not pay - unless you are an undertaker following Walker, Texas Ranger
 Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
 
 Bugs come in through open Windows.
+
+In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
