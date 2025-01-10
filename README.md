@@ -746,3 +746,5 @@ Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by
 Bugs come in through open Windows.
 
 In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+
+Chuck Norris programs do not accept input.
