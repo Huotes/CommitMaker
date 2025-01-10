@@ -714,3 +714,5 @@ Chuck Norris doesn't need to use AJAX because pages are too afraid to postback a
 The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
 
 Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+
+Computers make very fast and very accurate mistakes.
