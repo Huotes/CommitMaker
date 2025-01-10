@@ -726,3 +726,5 @@ Chuck Norris plays racquetball with a waffle iron and a bowling ball.
 Artificial intelligence usually beats real stupidity.
 
 When Chuck Norris wants an egg, he cracks open a chicken.
+
+Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
