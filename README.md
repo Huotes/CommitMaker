@@ -758,3 +758,5 @@ Chuck Norris doesn't have disk latency because the hard drive knows to hurry the
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+
+In the medical community, death is referred to as 'Chuck Norris Disease'
