@@ -732,3 +732,5 @@ Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' i
 Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+
+In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
