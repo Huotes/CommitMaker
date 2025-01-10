@@ -730,3 +730,5 @@ When Chuck Norris wants an egg, he cracks open a chicken.
 Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
 
 Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+
+They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
