@@ -756,3 +756,5 @@ Chuck Norris crossed the road. No one has ever dared question his motives.
 Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+
+Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
