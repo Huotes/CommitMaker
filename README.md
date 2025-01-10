@@ -734,3 +734,5 @@ Chuck Norris doesn't actually write books, the words assemble themselves out of 
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 
 In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
+
+Why does a burger have less energy than a steak? A burger is in its ground state.
