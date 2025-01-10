@@ -738,3 +738,5 @@ In the beginning there was nothing...then Chuck Norris Roundhouse kicked that no
 Why does a burger have less energy than a steak? A burger is in its ground state.
 
 Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+
+Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
