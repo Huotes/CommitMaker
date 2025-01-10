@@ -748,3 +748,5 @@ Bugs come in through open Windows.
 In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
 
 Chuck Norris programs do not accept input.
+
+The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
