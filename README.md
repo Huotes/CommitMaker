@@ -742,3 +742,5 @@ Chuck Norris grinds his coffee with his teeth and boils the water with his own r
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 
 Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
+
+Bugs come in through open Windows.
