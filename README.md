@@ -792,3 +792,5 @@ The only sure things are Death and Taxes?and when Chuck Norris goes to work for 
 The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
 
 I told him I can't open the jar, he said download and install Java
+
+Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
