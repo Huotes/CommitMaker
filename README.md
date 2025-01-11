@@ -776,3 +776,5 @@ Programmer (noun.): A machine that turns coffee into code
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 
 SUPERCOMPUTER: what it sounded like before you bought it.
+
+The Internet: where men are men women are men and children are FBI agents.
