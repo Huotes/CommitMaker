@@ -782,3 +782,5 @@ The Internet: where men are men women are men and children are FBI agents.
 Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 
 Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
+
+The code that is the hardest to debug is the code that you know cannot possibly be wrong.
