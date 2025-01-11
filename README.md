@@ -762,3 +762,5 @@ Latest survey shows that 3 out of 4 people make up 75% of the world’s populati
 In the medical community, death is referred to as 'Chuck Norris Disease'
 
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+
+The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
