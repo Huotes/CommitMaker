@@ -788,3 +788,5 @@ The code that is the hardest to debug is the code that you know cannot possibly 
 Chuck Norris can write an OS in Brainfuck
 
 The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+
+The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
