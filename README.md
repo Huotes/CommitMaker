@@ -768,3 +768,5 @@ The Manhattan Project was not intended to create nuclear weapons, it was meant t
 The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
 
 I’m not anti-social; I’m just not user friendly.
+
+Programmer (noun.): A machine that turns coffee into code
