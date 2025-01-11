@@ -802,3 +802,5 @@ The show Survivor had the original premise of putting people on an island with C
 Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 
 Chuck Norris burst the dot com bubble.
+
+There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
