@@ -786,3 +786,5 @@ Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
 The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 
 Chuck Norris can write an OS in Brainfuck
+
+The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
