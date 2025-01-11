@@ -806,3 +806,5 @@ Chuck Norris burst the dot com bubble.
 There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 
 There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
+
+Chuck Norris doesn't wash his clothes. He disembowels them.
