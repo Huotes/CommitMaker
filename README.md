@@ -774,3 +774,5 @@ Programmer (noun.): A machine that turns coffee into code
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
 
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+
+SUPERCOMPUTER: what it sounded like before you bought it.
