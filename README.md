@@ -760,3 +760,5 @@ The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck N
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 
 In the medical community, death is referred to as 'Chuck Norris Disease'
+
+Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
