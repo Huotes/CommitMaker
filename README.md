@@ -794,3 +794,5 @@ The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment 
 I told him I can't open the jar, he said download and install Java
 
 Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
+
+It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
