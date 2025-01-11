@@ -766,3 +766,5 @@ Gotta love the people who wrote the algorithm for Ola share,They go out of their
 The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
 
 The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
+
+I’m not anti-social; I’m just not user friendly.
