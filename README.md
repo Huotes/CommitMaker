@@ -780,3 +780,5 @@ SUPERCOMPUTER: what it sounded like before you bought it.
 The Internet: where men are men women are men and children are FBI agents.
 
 Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+
+Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
