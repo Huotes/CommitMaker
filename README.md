@@ -770,3 +770,5 @@ The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was
 I’m not anti-social; I’m just not user friendly.
 
 Programmer (noun.): A machine that turns coffee into code
+
+'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
