@@ -820,3 +820,5 @@ When an episode of Walker Texas Ranger was aired in France, the French surrender
 Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+
+Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
