@@ -830,3 +830,5 @@ Chuck Norris always knows the EXACT location of Carmen SanDiego.
 Chuck Norris hosting is 101% uptime guaranteed.
 
 A foo walks into a bar, takes a look around and says 'Hello World!'.
+
+Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
