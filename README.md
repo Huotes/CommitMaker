@@ -808,3 +808,5 @@ There is no theory of evolution, just a list of creatures Chuck Norris allows to
 There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
 
 Chuck Norris doesn't wash his clothes. He disembowels them.
+
+Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
