@@ -842,3 +842,5 @@ Chuck Norris will attain statehood in 2009. His state flower will be the Magnoli
 What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
 
 Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+
+Why did I divide sin by tan? Just cos.
