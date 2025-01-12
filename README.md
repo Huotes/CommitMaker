@@ -836,3 +836,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 
 Chuck Norris protocol design method has no status, requests or responses, only commands.
+
+Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
