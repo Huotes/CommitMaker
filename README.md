@@ -850,3 +850,5 @@ Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter c
 According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 
 If brute force doesn’t solve your problems... then you aren’t using enough.
+
+Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass and assigns the corpse a number. It is currently recorded to be in the billions.
