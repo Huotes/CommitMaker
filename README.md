@@ -828,3 +828,5 @@ Chuck Norris can lead a horse to water AND make it drink.
 Chuck Norris always knows the EXACT location of Carmen SanDiego.
 
 Chuck Norris hosting is 101% uptime guaranteed.
+
+A foo walks into a bar, takes a look around and says 'Hello World!'.
