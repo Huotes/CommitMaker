@@ -824,3 +824,5 @@ Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallow
 Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
 
 Chuck Norris can lead a horse to water AND make it drink.
+
+Chuck Norris always knows the EXACT location of Carmen SanDiego.
