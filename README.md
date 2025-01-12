@@ -846,3 +846,5 @@ Chuck Norris will never have a heart attack. His heart isn't nearly foolish enou
 Why did I divide sin by tan? Just cos.
 
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+
+According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
