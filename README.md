@@ -848,3 +848,5 @@ Why did I divide sin by tan? Just cos.
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 
 According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+
+If brute force doesn’t solve your problems... then you aren’t using enough.
