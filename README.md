@@ -814,3 +814,5 @@ Crop circles are Chuck Norris' way of telling the world that sometimes corn need
 Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 
 Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
+
+When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
