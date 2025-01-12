@@ -822,3 +822,5 @@ Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 
 Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+
+Chuck Norris can lead a horse to water AND make it drink.
