@@ -812,3 +812,5 @@ Chuck Norris doesn't wash his clothes. He disembowels them.
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 
 Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+
+Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
