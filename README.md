@@ -816,3 +816,5 @@ Staring at Chuck Norris for extended periods of time without proper eye protecti
 Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
 
 When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
+
+Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
