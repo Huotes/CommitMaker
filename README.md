@@ -818,3 +818,5 @@ Chuck Norris once ate a whole cake before his friends could tell him there was a
 When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
 
 Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+
+Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
