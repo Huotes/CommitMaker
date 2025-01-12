@@ -844,3 +844,5 @@ What was going through the minds of all of Chuck Norris' victims before they die
 Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
 
 Why did I divide sin by tan? Just cos.
+
+Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
