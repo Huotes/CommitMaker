@@ -810,3 +810,5 @@ There are only two things that can cut diamonds: other diamonds, and Chuck Norri
 Chuck Norris doesn't wash his clothes. He disembowels them.
 
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+
+Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
