@@ -864,3 +864,5 @@ Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and s
 Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
 
 Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
+
+Chuck Norris ordered a Big Mac at Burger King, and got one.
