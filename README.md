@@ -892,3 +892,5 @@ Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck N
 Chuck Norris can install iTunes without installing Quicktime.
 
 Mac users swear by their Mac and PC users swear at their PC.
+
+Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
