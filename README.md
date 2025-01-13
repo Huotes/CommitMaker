@@ -876,3 +876,5 @@ Staring at Chuck Norris for extended periods of time without proper eye protecti
 The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
 
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+
+Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
