@@ -886,3 +886,5 @@ Chuck Norris shot the sheriff, but he round house kicked the deputy.
 Chuck Norris can't test for equality because he has no equal.
 
 Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+
+Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
