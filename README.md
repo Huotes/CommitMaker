@@ -902,3 +902,5 @@ Chuck Norris eats steak for every single meal. Most times he forgets to kill the
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 
 Chuck Norris can spawn threads that complete before they are started.
+
+James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
