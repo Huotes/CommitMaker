@@ -878,3 +878,5 @@ The original draft of The Lord of the Rings featured Chuck Norris instead of Fro
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 
 Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+
+Chuck Norris can retrieve anything from /dev/null.
