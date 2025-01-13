@@ -870,3 +870,5 @@ Chuck Norris ordered a Big Mac at Burger King, and got one.
 Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
 
 For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
+
+Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
