@@ -880,3 +880,5 @@ Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her i
 Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 Chuck Norris can retrieve anything from /dev/null.
+
+Chuck Norris shot the sheriff, but he round house kicked the deputy.
