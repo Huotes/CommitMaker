@@ -868,3 +868,5 @@ Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigge
 Chuck Norris ordered a Big Mac at Burger King, and got one.
 
 Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
+
+For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
