@@ -866,3 +866,5 @@ Chuck Norris once roundhouse kicked someone so hard that his foot broke the spee
 Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
 
 Chuck Norris ordered a Big Mac at Burger King, and got one.
+
+Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
