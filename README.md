@@ -890,3 +890,5 @@ Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
 
 Chuck Norris can install iTunes without installing Quicktime.
+
+Mac users swear by their Mac and PC users swear at their PC.
