@@ -874,3 +874,5 @@ For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled 
 Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 
 The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
+
+Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
