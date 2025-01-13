@@ -884,3 +884,5 @@ Chuck Norris can retrieve anything from /dev/null.
 Chuck Norris shot the sheriff, but he round house kicked the deputy.
 
 Chuck Norris can't test for equality because he has no equal.
+
+Chuck Norris programs occupy 150% of CPU, even when they are not executing.
