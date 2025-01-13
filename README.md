@@ -896,3 +896,5 @@ Mac users swear by their Mac and PC users swear at their PC.
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 
 Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
+
+Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
