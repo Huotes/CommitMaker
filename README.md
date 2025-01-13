@@ -900,3 +900,5 @@ Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a qu
 Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+
+Chuck Norris can spawn threads that complete before they are started.
