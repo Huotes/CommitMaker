@@ -930,3 +930,5 @@ Chuck Norris ordered a Big Mac at Burger King, and got one.
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
 
 Chuck Norris drinks napalm to quell his heartburn.
+
+I told him I can't open the jar, he said download and install Java
