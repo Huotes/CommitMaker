@@ -950,3 +950,5 @@ Those aren't credits that roll after Walker Texas Ranger. It is actually a list 
 A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 
 Chuck Norris has never won an Academy Award for acting... because he's not acting.
+
+Chuck Norris wipes his ass with chain mail and sandpaper.
