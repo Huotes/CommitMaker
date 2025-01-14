@@ -924,3 +924,5 @@ They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kick
 In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
 
 'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
+
+Chuck Norris ordered a Big Mac at Burger King, and got one.
