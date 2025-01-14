@@ -910,3 +910,5 @@ When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck
 It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
 
 Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
+
+Chuck Norris doesn't shower, he only takes blood baths.
