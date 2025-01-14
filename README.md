@@ -916,3 +916,5 @@ Chuck Norris doesn't shower, he only takes blood baths.
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 
 I’m not anti-social; I’m just not user friendly.
+
+They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
