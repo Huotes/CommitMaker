@@ -906,3 +906,5 @@ Chuck Norris can spawn threads that complete before they are started.
 James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
 
 When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck Norris.
+
+It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
