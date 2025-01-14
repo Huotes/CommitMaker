@@ -922,3 +922,5 @@ They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kick
 99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 
 In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+
+'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
