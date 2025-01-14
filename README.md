@@ -940,3 +940,5 @@ Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, i
 Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
 
 If Chuck Norris writes code with bugs, the bugs fix themselves.
+
+MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
