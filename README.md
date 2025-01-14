@@ -920,3 +920,5 @@ I’m not anti-social; I’m just not user friendly.
 They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
 
 99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
+
+In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
