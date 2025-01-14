@@ -914,3 +914,5 @@ Behind every successful man, there is a woman. Behind every dead man, there is C
 Chuck Norris doesn't shower, he only takes blood baths.
 
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+
+I’m not anti-social; I’m just not user friendly.
