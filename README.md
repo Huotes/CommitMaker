@@ -988,3 +988,5 @@ Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a
 Chuck Norris eats lightning and shits out thunder.
 
 Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+
+How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
