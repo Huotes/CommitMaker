@@ -976,3 +976,5 @@ When Chuck Norris is in a crowded area, he doesn't walk around people. He walks 
 Computers are like air conditioners: they stop working when you open Windows.
 
 Chuck Norris is his own line at the DMV.
+
+Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
