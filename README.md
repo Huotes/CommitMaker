@@ -956,3 +956,5 @@ Chuck Norris wipes his ass with chain mail and sandpaper.
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+
+The box said ‘Requires Windows Vista or better’. So I installed LINUX.
