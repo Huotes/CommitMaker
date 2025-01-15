@@ -952,3 +952,5 @@ A study showed the leading causes of death in the United States are: 1. Heart di
 Chuck Norris has never won an Academy Award for acting... because he's not acting.
 
 Chuck Norris wipes his ass with chain mail and sandpaper.
+
+Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
