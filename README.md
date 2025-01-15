@@ -958,3 +958,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 
 The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+
+Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
