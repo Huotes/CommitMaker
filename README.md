@@ -984,3 +984,5 @@ Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
 
 Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+
+Chuck Norris eats lightning and shits out thunder.
