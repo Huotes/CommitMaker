@@ -974,3 +974,5 @@ There is no such thing as a lesbian, just a woman who has never met Chuck Norris
 When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
 
 Computers are like air conditioners: they stop working when you open Windows.
+
+Chuck Norris is his own line at the DMV.
