@@ -986,3 +986,5 @@ Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all
 Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
 
 Chuck Norris eats lightning and shits out thunder.
+
+Le gf: I'll dump you.Le bf: hex dump or binary dump? 
