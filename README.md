@@ -978,3 +978,5 @@ Computers are like air conditioners: they stop working when you open Windows.
 Chuck Norris is his own line at the DMV.
 
 Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
+
+Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
