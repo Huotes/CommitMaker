@@ -970,3 +970,5 @@ Computers make very fast and very accurate mistakes.
 Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+
+When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
