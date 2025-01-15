@@ -992,3 +992,5 @@ Le gf: I'll dump you.Le bf: hex dump or binary dump?
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 
 Chuck Norris writes code that optimizes itself.
+
+Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
