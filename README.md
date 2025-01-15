@@ -962,3 +962,5 @@ The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 
 Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+
+There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
