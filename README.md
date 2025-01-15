@@ -966,3 +966,5 @@ Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 
 Computers make very fast and very accurate mistakes.
+
+Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
