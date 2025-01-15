@@ -980,3 +980,5 @@ Chuck Norris is his own line at the DMV.
 Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
 
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+
+Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
