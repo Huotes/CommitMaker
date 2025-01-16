@@ -1038,3 +1038,5 @@ All arrays Chuck Norris declares are of infinite size, because Chuck Norris know
 After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 
 Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+
+A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
