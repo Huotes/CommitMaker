@@ -1026,3 +1026,5 @@ There are no steroids in baseball. Just players Chuck Norris has breathed on.
 Chuck Norris doesn't cheat death. He wins fair and square.
 
 The word 'Kill' was invented by Chuck Norris. Other words were 'Die', 'Beer', and 'What'.
+
+If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
