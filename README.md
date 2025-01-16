@@ -1000,3 +1000,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
 
 Erro ao obter frase de meme da API.
+
+UNIX is user friendly, it's just very particular about who it's friends are.
