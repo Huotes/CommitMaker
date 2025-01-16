@@ -1022,3 +1022,5 @@ Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck N
 Chuck Norris wipes his ass with chain mail and sandpaper.
 
 There are no steroids in baseball. Just players Chuck Norris has breathed on.
+
+Chuck Norris doesn't cheat death. He wins fair and square.
