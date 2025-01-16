@@ -1036,3 +1036,5 @@ Chuck Norris recently had the idea to sell his urine as a canned beverage. We kn
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 
 After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
+
+Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
