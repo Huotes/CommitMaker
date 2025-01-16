@@ -1008,3 +1008,5 @@ Chuck Norris' programs never exit, they terminate.
 One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
 
 Chuck Norris cannot love, he can only not kill.
+
+The quickest way to a man's heart is with Chuck Norris' fist.
