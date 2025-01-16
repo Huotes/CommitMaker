@@ -1020,3 +1020,5 @@ When Chuck Norris sends in his taxes, he sends blank forms and includes only a p
 Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
 
 Chuck Norris wipes his ass with chain mail and sandpaper.
+
+There are no steroids in baseball. Just players Chuck Norris has breathed on.
