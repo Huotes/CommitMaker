@@ -1006,3 +1006,5 @@ UNIX is user friendly, it's just very particular about who it's friends are.
 Chuck Norris' programs never exit, they terminate.
 
 One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
+
+Chuck Norris cannot love, he can only not kill.
