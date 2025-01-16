@@ -1016,3 +1016,5 @@ Mac users swear by their Mac and PC users swear at their PC.
 Black holes are where God divided by zero.
 
 When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
+
+Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
