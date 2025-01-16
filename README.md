@@ -1044,3 +1044,5 @@ A programmer is having trouble with his keyboard double-pressing. He asks his co
 Chuck Norris lost his virginity before his dad did.
 
 When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
+
+The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
