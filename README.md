@@ -1002,3 +1002,5 @@ Scientifically speaking, it is impossible to charge Chuck Norris with 'obstructi
 Erro ao obter frase de meme da API.
 
 UNIX is user friendly, it's just very particular about who it's friends are.
+
+Chuck Norris' programs never exit, they terminate.
