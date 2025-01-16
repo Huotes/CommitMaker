@@ -1032,3 +1032,5 @@ If the box says: 'This software requires Windows 7 or better' Does that mean it'
 Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 
 Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
