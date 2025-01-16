@@ -1042,3 +1042,5 @@ Chuck Norris doesn't actually write books, the words assemble themselves out of 
 A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
 
 Chuck Norris lost his virginity before his dad did.
+
+When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
