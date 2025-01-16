@@ -1010,3 +1010,5 @@ One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire sta
 Chuck Norris cannot love, he can only not kill.
 
 The quickest way to a man's heart is with Chuck Norris' fist.
+
+Mac users swear by their Mac and PC users swear at their PC.
