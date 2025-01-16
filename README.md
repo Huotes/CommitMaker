@@ -1030,3 +1030,5 @@ The word 'Kill' was invented by Chuck Norris. Other words were 'Die', 'Beer', an
 If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
 
 Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+
+Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
