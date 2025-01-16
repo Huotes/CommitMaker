@@ -1012,3 +1012,5 @@ Chuck Norris cannot love, he can only not kill.
 The quickest way to a man's heart is with Chuck Norris' fist.
 
 Mac users swear by their Mac and PC users swear at their PC.
+
+Black holes are where God divided by zero.
