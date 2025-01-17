@@ -1088,3 +1088,5 @@ Chuck Norris invented the internet? just so he had a place to store his porn.
 When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 
 Chuck Norris is the reason why Waldo is hiding.
+
+According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
