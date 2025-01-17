@@ -1062,3 +1062,5 @@ Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetim
 For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 
 The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+
+There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
