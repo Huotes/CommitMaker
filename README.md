@@ -1050,3 +1050,5 @@ The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the 
 MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 
 The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
+
+Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
