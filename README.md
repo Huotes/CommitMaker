@@ -1084,3 +1084,5 @@ Chuck Norris sleeps with a pillow under his gun.
 A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 
 Chuck Norris invented the internet? just so he had a place to store his porn.
+
+When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
