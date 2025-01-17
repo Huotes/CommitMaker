@@ -1066,3 +1066,5 @@ The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 
 My attitude isn’t bad. It’s in beta.
+
+If I wanted a warm fuzzy feeling... I’d antialias my graphics!
