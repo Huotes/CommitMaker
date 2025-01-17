@@ -1094,3 +1094,5 @@ According to Einstein's theory of relativity, Chuck Norris can actually roundhou
 Le gf: I'll dump you.Le bf: hex dump or binary dump? 
 
 Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+
+Chuck Norris' programs never exit, they terminate.
