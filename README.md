@@ -1052,3 +1052,5 @@ MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill
 The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
 
 Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+
+MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
