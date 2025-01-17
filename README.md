@@ -1078,3 +1078,5 @@ Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a
 Chuck Norris sleeps with a pillow under his gun.
 
 Chuck Norris was once in a knife fight, and the knife lost.
+
+Chuck Norris sleeps with a pillow under his gun.
