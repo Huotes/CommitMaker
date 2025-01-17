@@ -1054,3 +1054,5 @@ The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump
 Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
 
 MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+
+Think of a hot woman. Chuck Norris did her.
