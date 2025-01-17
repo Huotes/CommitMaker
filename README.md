@@ -1090,3 +1090,5 @@ When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eat
 Chuck Norris is the reason why Waldo is hiding.
 
 According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+
+Le gf: I'll dump you.Le bf: hex dump or binary dump? 
