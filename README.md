@@ -1086,3 +1086,5 @@ A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in
 Chuck Norris invented the internet? just so he had a place to store his porn.
 
 When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+
+Chuck Norris is the reason why Waldo is hiding.
