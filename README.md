@@ -1056,3 +1056,5 @@ Chuck Norris is the only man who has, literally, beaten the odds. With his fists
 MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 
 Think of a hot woman. Chuck Norris did her.
+
+Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
