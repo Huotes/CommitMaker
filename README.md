@@ -1058,3 +1058,5 @@ MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but C
 Think of a hot woman. Chuck Norris did her.
 
 Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
+
+For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
