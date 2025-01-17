@@ -1068,3 +1068,5 @@ There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Ch
 My attitude isn’t bad. It’s in beta.
 
 If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+
+Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
