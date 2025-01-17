@@ -1060,3 +1060,5 @@ Think of a hot woman. Chuck Norris did her.
 Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
 
 For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+
+The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
