@@ -1064,3 +1064,5 @@ For undercover police work, Chuck Norris pins his badge underneath his shirt, di
 The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 
 There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+
+My attitude isn’t bad. It’s in beta.
