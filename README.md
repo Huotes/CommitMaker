@@ -1080,3 +1080,5 @@ Chuck Norris sleeps with a pillow under his gun.
 Chuck Norris was once in a knife fight, and the knife lost.
 
 Chuck Norris sleeps with a pillow under his gun.
+
+A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
