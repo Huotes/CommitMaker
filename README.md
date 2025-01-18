@@ -1096,3 +1096,5 @@ Le gf: I'll dump you.Le bf: hex dump or binary dump?
 Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 
 Chuck Norris' programs never exit, they terminate.
+
+Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
