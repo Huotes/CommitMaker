@@ -1114,3 +1114,5 @@ Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specializatio
 Chuck Norris' house has no doors, only walls that he walks through.
 
 The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+
+Chuck Norris doesn't cheat death. He wins fair and square.
