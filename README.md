@@ -1128,3 +1128,5 @@ Hey! It compiles! Ship it!
 The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
 
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+
+Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
