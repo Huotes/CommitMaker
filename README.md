@@ -1118,3 +1118,5 @@ The truth will set you free. Unless Chuck Norris has you, in which case, forget 
 Chuck Norris doesn't cheat death. He wins fair and square.
 
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+
+Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
