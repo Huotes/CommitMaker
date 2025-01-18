@@ -1112,3 +1112,5 @@ Chuck Norris can hit you so hard that he can actually alter your DNA. Decades fr
 Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 
 Chuck Norris' house has no doors, only walls that he walks through.
+
+The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
