@@ -1124,3 +1124,5 @@ Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all
 Chuck Norris can write an OS in Brainfuck
 
 Hey! It compiles! Ship it!
+
+The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
