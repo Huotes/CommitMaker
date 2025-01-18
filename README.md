@@ -1108,3 +1108,5 @@ There are three kinds of people: those who can count and those who can’t.
 182,000 Americans die from Chuck Norris-related accidents every year.
 
 Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
+
+Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
