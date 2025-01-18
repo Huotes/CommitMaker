@@ -1132,3 +1132,5 @@ Maslow's theory of higher needs does not apply to Chuck Norris. He only has two 
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 
 When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
+
+Chuck Norris did in fact, build Rome in a day.
