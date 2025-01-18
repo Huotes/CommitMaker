@@ -1098,3 +1098,5 @@ Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Henc
 Chuck Norris' programs never exit, they terminate.
 
 Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+
+Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
