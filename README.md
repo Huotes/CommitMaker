@@ -1140,3 +1140,5 @@ Programming today is a race between software engineers striving to build bigger 
 Chuck Norris' Penis is a third degree blackbelt, and an honorable 32nd-degree mason.
 
 There are three kinds of people: those who can count and those who can’t.
+
+They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
