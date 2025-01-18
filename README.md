@@ -1142,3 +1142,5 @@ Chuck Norris' Penis is a third degree blackbelt, and an honorable 32nd-degree ma
 There are three kinds of people: those who can count and those who can’t.
 
 They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+
+Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
