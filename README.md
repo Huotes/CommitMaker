@@ -1102,3 +1102,5 @@ Divide Chuck Norris by zero and you will in fact get one........one bad-ass that
 Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
 
 Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+
+There are three kinds of people: those who can count and those who can’t.
