@@ -1104,3 +1104,5 @@ Count from one to ten. That's how long it would take Chuck Norris to kill you...
 Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 
 There are three kinds of people: those who can count and those who can’t.
+
+182,000 Americans die from Chuck Norris-related accidents every year.
