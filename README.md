@@ -1130,3 +1130,5 @@ The original draft of The Lord of the Rings featured Chuck Norris instead of Fro
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+
+When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
