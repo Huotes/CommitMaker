@@ -1150,3 +1150,5 @@ Programmer (noun.): A machine that turns coffee into code
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 
 If at first you don’t succeed; call it version 1.0.
+
+The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
