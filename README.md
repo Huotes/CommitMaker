@@ -1156,3 +1156,5 @@ The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Wal
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
 
 An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
+
+Erro na API: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
