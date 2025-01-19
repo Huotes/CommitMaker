@@ -1190,3 +1190,5 @@ The chemical formula for the highly toxic cyanide ion is CN-. These are also Chu
 Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
 
 Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+
+Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
