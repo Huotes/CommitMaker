@@ -1174,3 +1174,5 @@ In an average living room there are 1,242 objects Chuck Norris could use to kill
 Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
 
 Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
+
+Why do Java programmers have to wear glasses? Because they don't C#.
