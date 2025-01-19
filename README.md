@@ -1172,3 +1172,5 @@ In an average living room there are 1,242 objects Chuck Norris could use to kill
 'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
 
 Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
+
+Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
