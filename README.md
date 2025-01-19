@@ -1170,3 +1170,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 
 'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
+
+Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
