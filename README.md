@@ -1158,3 +1158,5 @@ The beginning of the programmer’s wisdom is understanding the difference betwe
 An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
 
 Erro na API: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+Chuck Norris does not code in cycles, he codes in strikes.
