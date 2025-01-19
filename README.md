@@ -1178,3 +1178,5 @@ Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 Why do Java programmers have to wear glasses? Because they don't C#.
 
 Chuck Norris crossed the road. No one has ever dared question his motives.
+
+When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
