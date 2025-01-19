@@ -1188,3 +1188,5 @@ Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 
 Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
+
+Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
