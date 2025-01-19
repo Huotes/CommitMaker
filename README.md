@@ -1168,3 +1168,5 @@ It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion d
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7823f3ccd3a0>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+
+'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
