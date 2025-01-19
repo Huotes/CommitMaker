@@ -1176,3 +1176,5 @@ Scientifically speaking, it is impossible to charge Chuck Norris with 'obstructi
 Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 
 Why do Java programmers have to wear glasses? Because they don't C#.
+
+Chuck Norris crossed the road. No one has ever dared question his motives.
