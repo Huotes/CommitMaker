@@ -1148,3 +1148,5 @@ Chuck Norris roundhouse kicks don't really kill people. They wipe out their enti
 Programmer (noun.): A machine that turns coffee into code
 
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+
+If at first you don’t succeed; call it version 1.0.
