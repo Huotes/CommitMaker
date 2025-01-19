@@ -1186,3 +1186,5 @@ Algorith (noun.): Word used by programmers when... they do not want to explain w
 Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+
+Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
