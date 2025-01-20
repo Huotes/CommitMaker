@@ -1208,3 +1208,5 @@ Erro ao obter frase de meme da API.
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 
 Computers make very fast and very accurate mistakes.
+
+182,000 Americans die from Chuck Norris-related accidents every year.
