@@ -1198,3 +1198,5 @@ According to Einstein's theory of relativity, Chuck Norris can actually roundhou
 A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 
 Erro ao obter frase de meme da API.
+
+Erro ao obter frase de meme da API.
