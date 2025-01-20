@@ -1228,3 +1228,5 @@ Gotta love the people who wrote the algorithm for Ola share,They go out of their
 When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 
 Chuck Norris can overflow your stack just by looking at it.
+
+My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
