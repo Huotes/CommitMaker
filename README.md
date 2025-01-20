@@ -1232,3 +1232,5 @@ Chuck Norris can overflow your stack just by looking at it.
 My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
 
 The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
+
+Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
