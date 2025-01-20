@@ -1218,3 +1218,5 @@ Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
+
+Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
