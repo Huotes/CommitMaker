@@ -1222,3 +1222,5 @@ Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is u
 Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 
 Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+
+Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
