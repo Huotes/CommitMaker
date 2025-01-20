@@ -1236,3 +1236,5 @@ The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Wal
 Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 
 In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
+
+When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
