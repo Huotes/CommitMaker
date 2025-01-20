@@ -1220,3 +1220,5 @@ Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 
 Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+
+Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
