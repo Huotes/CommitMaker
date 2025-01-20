@@ -1212,3 +1212,5 @@ Computers make very fast and very accurate mistakes.
 182,000 Americans die from Chuck Norris-related accidents every year.
 
 Chuck Norris can lead a horse to water AND make it drink.
+
+Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
