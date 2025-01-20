@@ -1226,3 +1226,5 @@ Chuck Norris used to play baseball. When Babe Ruth was hailed as the better play
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 
 When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+
+Chuck Norris can overflow your stack just by looking at it.
