@@ -1282,3 +1282,5 @@ Who called it female foeticide and not Binary ?
 If you spell Chuck Norris in Scrabble, you win. Forever.
 
 Computers make very fast and very accurate mistakes.
+
+If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
