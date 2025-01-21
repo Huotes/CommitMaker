@@ -1284,3 +1284,5 @@ If you spell Chuck Norris in Scrabble, you win. Forever.
 Computers make very fast and very accurate mistakes.
 
 If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+
+All browsers support the hex definitions #chuck and #norris for the colors black and blue.
