@@ -1276,3 +1276,5 @@ In ancient China there is a legend that one day a child will be born from a drag
 Chuck Norris can overflow your stack just by looking at it.
 
 When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
+
+Who called it female foeticide and not Binary ?
