@@ -1246,3 +1246,5 @@ Chuck Norris has to register every part of his body as a separate lethal weapon.
 Chuck Norris did in fact, build Rome in a day.
 
 Chuck Norris can access the DB from the UI.
+
+Chuck Norris can spawn threads that complete before they are started.
