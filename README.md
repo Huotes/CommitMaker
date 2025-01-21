@@ -1256,3 +1256,5 @@ Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 Chuck Norris can win a game of Connect Four in only three moves.
+
+Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
