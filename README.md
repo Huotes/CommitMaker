@@ -1286,3 +1286,5 @@ Computers make very fast and very accurate mistakes.
 If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
 
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+
+Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
