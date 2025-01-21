@@ -1262,3 +1262,5 @@ Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark,
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 
 With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+
+Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7dd54c368980>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
