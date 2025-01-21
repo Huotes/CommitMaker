@@ -1258,3 +1258,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 Chuck Norris can win a game of Connect Four in only three moves.
 
 Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+
+They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
