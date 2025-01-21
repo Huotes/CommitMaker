@@ -1278,3 +1278,5 @@ Chuck Norris can overflow your stack just by looking at it.
 When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 
 Who called it female foeticide and not Binary ?
+
+If you spell Chuck Norris in Scrabble, you win. Forever.
