@@ -1280,3 +1280,5 @@ When Chuck Norris was born, he immediately had sex with the first nurse he saw. 
 Who called it female foeticide and not Binary ?
 
 If you spell Chuck Norris in Scrabble, you win. Forever.
+
+Computers make very fast and very accurate mistakes.
