@@ -1252,3 +1252,5 @@ Chuck Norris can spawn threads that complete before they are started.
 When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
 
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+
+Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
