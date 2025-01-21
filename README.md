@@ -1244,3 +1244,5 @@ Chuck Norris built a better mousetrap, but the world was too frightened to beat 
 Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 
 Chuck Norris did in fact, build Rome in a day.
+
+Chuck Norris can access the DB from the UI.
