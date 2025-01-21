@@ -1242,3 +1242,5 @@ When Chuck Norris is in a crowded area, he doesn't walk around people. He walks 
 Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 
 Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+
+Chuck Norris did in fact, build Rome in a day.
