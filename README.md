@@ -1248,3 +1248,5 @@ Chuck Norris did in fact, build Rome in a day.
 Chuck Norris can access the DB from the UI.
 
 Chuck Norris can spawn threads that complete before they are started.
+
+When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
