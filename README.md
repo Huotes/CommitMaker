@@ -1334,3 +1334,5 @@ A foo walks into a bar, takes a look around and says 'Hello World!'.
 Chuck Norris solved the halting problem.
 
 When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
+
+I don't see women as objects. I consider each to be in a class of her own.
