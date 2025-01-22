@@ -1314,3 +1314,5 @@ Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and foo
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 
 President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+
+There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
