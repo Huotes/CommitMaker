@@ -1290,3 +1290,5 @@ All browsers support the hex definitions #chuck and #norris for the colors black
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
+
+On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
