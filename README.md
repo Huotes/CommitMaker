@@ -1316,3 +1316,5 @@ The movie 'Delta Force' was extremely hard to make because Chuck had to downplay
 President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
