@@ -1294,3 +1294,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 
 CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
+
+Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
