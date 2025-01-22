@@ -1292,3 +1292,5 @@ Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her i
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+
+CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
