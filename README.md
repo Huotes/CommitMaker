@@ -1330,3 +1330,5 @@ Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 
 A foo walks into a bar, takes a look around and says 'Hello World!'.
+
+Chuck Norris solved the halting problem.
