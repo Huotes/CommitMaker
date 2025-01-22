@@ -1318,3 +1318,5 @@ President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+
+Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
