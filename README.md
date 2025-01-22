@@ -1312,3 +1312,5 @@ If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. A
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
 
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+
+President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
