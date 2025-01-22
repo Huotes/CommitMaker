@@ -1298,3 +1298,5 @@ CNN was originally created as the 'Chuck Norris Network' to update Americans wit
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+
+Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
