@@ -1310,3 +1310,5 @@ Chuck Norris owns a chain of fast-food restaurants throughout the southwest. The
 If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
 
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+
+The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
