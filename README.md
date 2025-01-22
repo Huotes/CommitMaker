@@ -1326,3 +1326,5 @@ How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris p
 Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
 
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+
+Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
