@@ -1296,3 +1296,5 @@ On his birthday, Chuck Norris randomly selects one lucky child to be thrown into
 CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
 
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+
+Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
