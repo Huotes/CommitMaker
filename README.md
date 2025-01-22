@@ -1324,3 +1324,5 @@ Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigge
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 
 Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+
+Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
