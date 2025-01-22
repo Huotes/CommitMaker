@@ -1308,3 +1308,5 @@ Chuck Norris does not have to answer the phone. His beard picks up the incoming 
 Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
 
 If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
+
+Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
