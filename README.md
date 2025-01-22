@@ -1322,3 +1322,5 @@ All arrays Chuck Norris declares are of infinite size, because Chuck Norris know
 Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
 
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+
+Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
