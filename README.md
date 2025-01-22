@@ -1320,3 +1320,5 @@ There is no such thing as a lesbian, just a woman who has never met Chuck Norris
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 
 Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
+
+How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
