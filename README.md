@@ -1376,3 +1376,5 @@ Chuck Norris is the only human being to display the Heisenberg uncertainty princ
 Don't fart in an Apple Store, because they don't have Windows.
 
 Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
+
+Real programmers start counting from 0
