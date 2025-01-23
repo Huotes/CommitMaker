@@ -1342,3 +1342,5 @@ Chuck Norris doesn't use GUI, he prefers COMMAND line.
 Chuck Norris protocol design method has no status, requests or responses, only commands.
 
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+
+The quickest way to a man's heart is with Chuck Norris' fist.
