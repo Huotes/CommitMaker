@@ -1340,3 +1340,5 @@ I don't see women as objects. I consider each to be in a class of her own.
 Chuck Norris doesn't use GUI, he prefers COMMAND line.
 
 Chuck Norris protocol design method has no status, requests or responses, only commands.
+
+Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
