@@ -1354,3 +1354,5 @@ Chuck Norris knows the last digit of pi.
 The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 
 Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+
+Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
