@@ -1348,3 +1348,5 @@ The quickest way to a man's heart is with Chuck Norris' fist.
 After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 
 If you spell Chuck Norris in Scrabble, you win. Forever.
+
+Chuck Norris knows the last digit of pi.
