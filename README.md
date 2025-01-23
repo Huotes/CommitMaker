@@ -1372,3 +1372,5 @@ The class object inherits from Chuck Norris
 Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
 
 Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+
+Don't fart in an Apple Store, because they don't have Windows.
