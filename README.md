@@ -1382,3 +1382,5 @@ Real programmers start counting from 0
 Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 
 Chuck Norris doesnt wear a watch, HE decides what time it is.
+
+My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
