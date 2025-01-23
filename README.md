@@ -1360,3 +1360,5 @@ Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark,
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x77f5b3968980>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 Nobody doesn't like Sara Lee. Except Chuck Norris.
+
+Chuck Norris's first program was kill -9.
