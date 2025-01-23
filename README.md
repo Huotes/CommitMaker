@@ -1352,3 +1352,5 @@ If you spell Chuck Norris in Scrabble, you win. Forever.
 Chuck Norris knows the last digit of pi.
 
 The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+
+Le gf: I'll dump you.Le bf: hex dump or binary dump? 
