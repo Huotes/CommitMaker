@@ -1366,3 +1366,5 @@ Chuck Norris's first program was kill -9.
 Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 
 If Ruby is not and Perl is the answer then you don’t understand the question.
+
+The class object inherits from Chuck Norris
