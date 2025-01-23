@@ -1362,3 +1362,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Nobody doesn't like Sara Lee. Except Chuck Norris.
 
 Chuck Norris's first program was kill -9.
+
+Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
