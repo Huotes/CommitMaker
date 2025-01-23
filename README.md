@@ -1344,3 +1344,5 @@ Chuck Norris protocol design method has no status, requests or responses, only c
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 
 The quickest way to a man's heart is with Chuck Norris' fist.
+
+After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
