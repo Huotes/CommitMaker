@@ -1406,3 +1406,5 @@ Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best wa
 Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
 
 Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
+
+Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
