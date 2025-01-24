@@ -1422,3 +1422,5 @@ Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
 
 Black holes are where God divided by zero.
+
+Chuck Norris knows everything there is to know - Except for the definition of mercy.
