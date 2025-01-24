@@ -1398,3 +1398,5 @@ Chuck Norris can touch MC Hammer.
 Love does not hurt. Chuck Norris does.
 
 Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
+
+When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
