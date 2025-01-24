@@ -1412,3 +1412,5 @@ Thousands of years ago Chuck Norris came across a bear. It was so terrified that
 Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 
 The Internet: where men are men women are men and children are FBI agents.
+
+Chuck Norris doesnt wear a watch, HE decides what time it is.
