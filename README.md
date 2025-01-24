@@ -1390,3 +1390,5 @@ The phrase 'balls to the wall' was originally conceived to describe Chuck Norris
 Chuck Norris uses tabasco sauce instead of visine.
 
 Chuck Norris doesn't daydream. He's too busy giving other people nightmares.
+
+Chuck Norris can take a screenshot of his blue screen.
