@@ -1408,3 +1408,5 @@ Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly ret
 Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 
 Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+
+Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
