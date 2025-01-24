@@ -1416,3 +1416,5 @@ The Internet: where men are men women are men and children are FBI agents.
 Chuck Norris doesnt wear a watch, HE decides what time it is.
 
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
+
+Chuck Norris programs occupy 150% of CPU, even when they are not executing.
