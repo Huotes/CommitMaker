@@ -1424,3 +1424,5 @@ Scientifically speaking, it is impossible to charge Chuck Norris with 'obstructi
 Black holes are where God divided by zero.
 
 Chuck Norris knows everything there is to know - Except for the definition of mercy.
+
+All browsers support the hex definitions #chuck and #norris for the colors black and blue.
