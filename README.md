@@ -1428,3 +1428,5 @@ Chuck Norris knows everything there is to know - Except for the definition of me
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 
 James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
+
+Jesus can walk on water, but Chuck Norris can walk on Jesus.
