@@ -1418,3 +1418,5 @@ Chuck Norris doesnt wear a watch, HE decides what time it is.
 The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
 
 Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+
+Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
