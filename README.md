@@ -1400,3 +1400,5 @@ Love does not hurt. Chuck Norris does.
 Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
 
 When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+
+Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
