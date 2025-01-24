@@ -1402,3 +1402,5 @@ Jack Bauer tried to use his detailed knowledge of torture techniques, but to no 
 When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 
 Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
+
+Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
