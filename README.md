@@ -1444,3 +1444,5 @@ It is better to give than to receive. This is especially true of a Chuck Norris 
 There are only 10 types of people in the world: those that understand binary and those that don’t.
 
 Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
+
+Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
