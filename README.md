@@ -1438,3 +1438,5 @@ Chuck Norris originally appeared in the 'Street Fighter II' video game, but was 
 Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 
 Chuck Norris drinks napalm to quell his heartburn.
+
+It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
