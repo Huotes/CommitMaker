@@ -1464,3 +1464,5 @@ Chuck Norris does not code in cycles, he codes in strikes.
 If at first you don’t succeed; call it version 1.0.
 
 A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
+
+Why did the programmer quit his job? Because he didn't get arrays.
