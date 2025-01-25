@@ -1440,3 +1440,5 @@ Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 Chuck Norris drinks napalm to quell his heartburn.
 
 It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
+
+There are only 10 types of people in the world: those that understand binary and those that don’t.
