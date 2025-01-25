@@ -1434,3 +1434,5 @@ Jesus can walk on water, but Chuck Norris can walk on Jesus.
 Some kids play Kick the can. Chuck Norris played Kick the keg.
 
 Chuck Norris originally appeared in the 'Street Fighter II' video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied 'That's no glitch.'
+
+Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
