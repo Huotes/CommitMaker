@@ -1470,3 +1470,5 @@ Why did the programmer quit his job? Because he didn't get arrays.
 Chuck Norris can unit test entire applications with a single assert.
 
 Chuck Norris doesn't daydream. He's too busy giving other people nightmares.
+
+Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
