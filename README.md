@@ -1432,3 +1432,5 @@ James Cameron wanted Chuck Norris to play the Terminator. However, upon reflecti
 Jesus can walk on water, but Chuck Norris can walk on Jesus.
 
 Some kids play Kick the can. Chuck Norris played Kick the keg.
+
+Chuck Norris originally appeared in the 'Street Fighter II' video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied 'That's no glitch.'
