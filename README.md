@@ -1460,3 +1460,5 @@ MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill
 Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
 
 Chuck Norris does not code in cycles, he codes in strikes.
+
+If at first you don’t succeed; call it version 1.0.
