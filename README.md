@@ -1476,3 +1476,5 @@ Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best wa
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 
 Think of a hot woman. Chuck Norris did her.
+
+Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
