@@ -1478,3 +1478,5 @@ The chemical formula for the highly toxic cyanide ion is CN-. These are also Chu
 Think of a hot woman. Chuck Norris did her.
 
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+
+Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
