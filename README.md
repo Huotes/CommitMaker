@@ -1458,3 +1458,5 @@ On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life
 MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 
 Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
+
+Chuck Norris does not code in cycles, he codes in strikes.
