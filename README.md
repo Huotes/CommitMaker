@@ -1502,3 +1502,5 @@ Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it w
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 
 Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+
+When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
