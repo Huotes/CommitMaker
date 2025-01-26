@@ -1486,3 +1486,5 @@ Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 min
 Chuck Norris can write multi-threaded applications with a single thread.
 
 Chuck Norris once rode a bull, and nine months later it had a calf.
+
+It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.
