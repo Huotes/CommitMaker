@@ -1520,3 +1520,5 @@ Programming today is a race between software engineers striving to build bigger 
 The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
 
 Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+
+How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
