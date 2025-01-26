@@ -1490,3 +1490,5 @@ Chuck Norris once rode a bull, and nine months later it had a calf.
 It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.
 
 The more I C.... the less I see.
+
+Chuck Norris got his drivers license at the age of 16. Seconds.
