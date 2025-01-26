@@ -1506,3 +1506,5 @@ Scientists have estimated that the energy given off during the Big Bang is rough
 When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
 
 70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
+
+Chuck Norris can spawn threads that complete before they are started.
