@@ -1516,3 +1516,5 @@ Chuck Norris does not wear a condom. Because there is no such thing as protectio
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 
 Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
+
+The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
