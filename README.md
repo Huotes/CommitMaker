@@ -1524,3 +1524,5 @@ Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(),
 How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 
 Time waits for no man. Unless that man is Chuck Norris.
+
+In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
