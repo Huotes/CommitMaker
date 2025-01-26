@@ -1480,3 +1480,5 @@ Think of a hot woman. Chuck Norris did her.
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 
 Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+
+Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
