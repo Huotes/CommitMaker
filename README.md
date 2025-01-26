@@ -1512,3 +1512,5 @@ Chuck Norris can spawn threads that complete before they are started.
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 
 Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+
+Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
