@@ -1492,3 +1492,5 @@ It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destro
 The more I C.... the less I see.
 
 Chuck Norris got his drivers license at the age of 16. Seconds.
+
+If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
