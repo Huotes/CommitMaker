@@ -1526,3 +1526,5 @@ How many theoretical physicists does it take to screw in a light bulb? Two. One 
 Time waits for no man. Unless that man is Chuck Norris.
 
 In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+
+There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
