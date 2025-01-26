@@ -1508,3 +1508,5 @@ When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the E
 70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
 
 Chuck Norris can spawn threads that complete before they are started.
+
+Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
