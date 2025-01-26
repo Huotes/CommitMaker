@@ -1498,3 +1498,5 @@ If you were somehow able to land a punch on Chuck Norris your entire arm would s
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 
 'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
+
+Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
