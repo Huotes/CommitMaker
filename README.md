@@ -1500,3 +1500,5 @@ Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it w
 'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
 
 Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+
+Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
