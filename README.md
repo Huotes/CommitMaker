@@ -1510,3 +1510,5 @@ When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the E
 Chuck Norris can spawn threads that complete before they are started.
 
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+
+Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
