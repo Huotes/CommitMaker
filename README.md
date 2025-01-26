@@ -1496,3 +1496,5 @@ Chuck Norris got his drivers license at the age of 16. Seconds.
 If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
 
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+
+'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
