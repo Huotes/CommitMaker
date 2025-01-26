@@ -1482,3 +1482,5 @@ Crime does not pay - unless you are an undertaker following Walker, Texas Ranger
 Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
 
 Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
+
+Chuck Norris can write multi-threaded applications with a single thread.
