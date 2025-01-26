@@ -1518,3 +1518,5 @@ Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallow
 Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 
 The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
+
+Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
