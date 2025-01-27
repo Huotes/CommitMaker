@@ -1572,3 +1572,5 @@ Unix is user friendly. It’s just selective about who its friends are.
 There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 
 Chuck Norris did in fact, build Rome in a day.
+
+Chuck Norris drives an ice cream truck covered in human skulls.
