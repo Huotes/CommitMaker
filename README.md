@@ -1550,3 +1550,5 @@ Chuck Norris? favourite cut of meat is the roundhouse.
 Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 
 Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.
+
+Chuck Norris has banned rainbows from the state of North Dakota.
