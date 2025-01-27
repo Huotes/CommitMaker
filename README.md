@@ -1538,3 +1538,5 @@ In the medical community, death is referred to as 'Chuck Norris Disease'
 Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 
 When Chuck Norris says 'More cowbell', he MEANS it.
+
+July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
