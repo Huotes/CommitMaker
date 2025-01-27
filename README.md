@@ -1546,3 +1546,5 @@ Chuck Norris has never been accused of murder because his roundhouse kicks are r
 When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 
 Chuck Norris? favourite cut of meat is the roundhouse.
+
+Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
