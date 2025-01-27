@@ -1566,3 +1566,5 @@ I don't see women as objects. I consider each to be in a class of her own.
 In a world without fences and walls... who needs Gates and Windows?
 
 When Chuck Norris wants an egg, he cracks open a chicken.
+
+Unix is user friendly. It’s just selective about who its friends are.
