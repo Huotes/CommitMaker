@@ -1536,3 +1536,5 @@ In the X-Men movies, none of the X-Men super-powers are done with special effect
 In the medical community, death is referred to as 'Chuck Norris Disease'
 
 Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+
+When Chuck Norris says 'More cowbell', he MEANS it.
