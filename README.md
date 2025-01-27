@@ -1540,3 +1540,5 @@ Superman once watched an episode of Walker, Texas Ranger. He then cried himself 
 When Chuck Norris says 'More cowbell', he MEANS it.
 
 July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
+
+Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
