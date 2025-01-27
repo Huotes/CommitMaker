@@ -1564,3 +1564,5 @@ The 1972 Miami Dolphins lost one game, it was a game vs. Chuck Norris and three 
 I don't see women as objects. I consider each to be in a class of her own.
 
 In a world without fences and walls... who needs Gates and Windows?
+
+When Chuck Norris wants an egg, he cracks open a chicken.
