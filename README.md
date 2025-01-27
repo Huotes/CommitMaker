@@ -1562,3 +1562,5 @@ On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life
 The 1972 Miami Dolphins lost one game, it was a game vs. Chuck Norris and three seven year old girls. Chuck Norris won with a roundhouse-kick to the face in overtime.
 
 I don't see women as objects. I consider each to be in a class of her own.
+
+In a world without fences and walls... who needs Gates and Windows?
