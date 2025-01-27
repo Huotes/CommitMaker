@@ -1548,3 +1548,5 @@ When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eat
 Chuck Norris? favourite cut of meat is the roundhouse.
 
 Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+
+Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.
