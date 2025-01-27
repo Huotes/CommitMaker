@@ -1534,3 +1534,5 @@ A programmer is having trouble with his keyboard double-pressing. He asks his co
 In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
 
 In the medical community, death is referred to as 'Chuck Norris Disease'
+
+Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
