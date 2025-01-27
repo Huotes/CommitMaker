@@ -1542,3 +1542,5 @@ When Chuck Norris says 'More cowbell', he MEANS it.
 July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 
 Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+
+When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
