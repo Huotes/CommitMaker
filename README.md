@@ -1530,3 +1530,5 @@ In honor of Chuck Norris, all McDonald's in Texas have an even larger size than 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 
 A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
+
+In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
