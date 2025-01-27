@@ -1554,3 +1554,5 @@ Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goe
 Chuck Norris has banned rainbows from the state of North Dakota.
 
 Chuck Norris doesnt wear a watch, HE decides what time it is.
+
+Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
