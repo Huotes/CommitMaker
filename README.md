@@ -1528,3 +1528,5 @@ Time waits for no man. Unless that man is Chuck Norris.
 In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+
+A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
