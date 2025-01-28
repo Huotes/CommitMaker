@@ -1620,3 +1620,5 @@ Chuck Norris can skeletize a cow in two minutes.
 Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
 
 E-mail returned to sender... insufficient voltage.
+
+Who called it female foeticide and not Binary ?
