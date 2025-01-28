@@ -1592,3 +1592,5 @@ MySpace actually isn't your space, it's Chuck's (he just lets you use it).
 Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
 
 binary digits are called bits i love ternary digits
+
+Chuck Norris solved the halting problem.
