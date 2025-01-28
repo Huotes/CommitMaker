@@ -1614,3 +1614,5 @@ Chuck Norris does not wear a condom. Because there is no such thing as protectio
 An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 
 Be nice to the nerds; for all you know they might be the next Bill Gates!
+
+Chuck Norris can skeletize a cow in two minutes.
