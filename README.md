@@ -1582,3 +1582,5 @@ Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
 
 Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+
+Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
