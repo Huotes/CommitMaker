@@ -1584,3 +1584,5 @@ The First Law of Thermodynamics states that energy can neither be created nor de
 Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
 
 Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+
+Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face.
