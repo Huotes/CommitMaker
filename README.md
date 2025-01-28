@@ -1604,3 +1604,5 @@ When Chuck Norris was a baby, he didn't suck his mother's breast. His mother ser
 Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
 
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+
+In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
