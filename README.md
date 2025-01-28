@@ -1606,3 +1606,5 @@ Chuck Norris invented black. In fact, he invented the entire spectrum of visible
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
 
 In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+
+Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
