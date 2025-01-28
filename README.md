@@ -1596,3 +1596,5 @@ binary digits are called bits i love ternary digits
 Chuck Norris solved the halting problem.
 
 If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
+
+Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
