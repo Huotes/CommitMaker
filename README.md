@@ -1594,3 +1594,5 @@ Google won't search for Chuck Norris because it knows you don't find Chuck Norri
 binary digits are called bits i love ternary digits
 
 Chuck Norris solved the halting problem.
+
+If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
