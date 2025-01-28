@@ -1616,3 +1616,5 @@ An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what tha
 Be nice to the nerds; for all you know they might be the next Bill Gates!
 
 Chuck Norris can skeletize a cow in two minutes.
+
+Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
