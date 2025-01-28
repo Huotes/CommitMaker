@@ -1618,3 +1618,5 @@ Be nice to the nerds; for all you know they might be the next Bill Gates!
 Chuck Norris can skeletize a cow in two minutes.
 
 Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
+
+E-mail returned to sender... insufficient voltage.
