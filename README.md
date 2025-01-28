@@ -1576,3 +1576,5 @@ Chuck Norris did in fact, build Rome in a day.
 Chuck Norris drives an ice cream truck covered in human skulls.
 
 MySpace actually isn't your space, it's Chuck's (he just lets you use it).
+
+Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
