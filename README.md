@@ -1580,3 +1580,5 @@ MySpace actually isn't your space, it's Chuck's (he just lets you use it).
 Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 
 The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+
+Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
