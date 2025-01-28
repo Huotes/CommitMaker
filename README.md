@@ -1610,3 +1610,5 @@ In honor of Chuck Norris, all McDonald's in Texas have an even larger size than 
 Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
 
 Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+
+An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
