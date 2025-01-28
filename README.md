@@ -1588,3 +1588,5 @@ Most tough men eat nails for breakfast. Chuck Norris does all of his grocery sho
 Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face.
 
 MySpace actually isn't your space, it's Chuck's (he just lets you use it).
+
+Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
