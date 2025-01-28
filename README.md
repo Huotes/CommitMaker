@@ -1602,3 +1602,5 @@ Those aren't credits that roll after Walker Texas Ranger. It is actually a list 
 When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
 
 Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
+
+No one has ever pair-programmed with Chuck Norris and lived to tell about it.
