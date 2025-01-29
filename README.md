@@ -1662,3 +1662,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 
 Black holes are where God divided by zero.
+
+Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
