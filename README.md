@@ -1654,3 +1654,5 @@ Failure is not an option. It comes bundled with your Microsoft product.
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
+
+Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
