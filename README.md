@@ -1628,3 +1628,5 @@ Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped a
 A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
 
 Chuck Norris shot the sheriff, but he round house kicked the deputy.
+
+Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
