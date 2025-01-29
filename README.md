@@ -1640,3 +1640,5 @@ With the rising cost of gasoline, Chuck Norris is beginning to worry about his d
 The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 
 Java programmers are some of the most materialistic people I know, very object-oriented
+
+Chuck Norris can install iTunes without installing Quicktime.
