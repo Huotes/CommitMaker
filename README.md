@@ -1624,3 +1624,5 @@ E-mail returned to sender... insufficient voltage.
 Who called it female foeticide and not Binary ?
 
 Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
+
+A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
