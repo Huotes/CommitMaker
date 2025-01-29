@@ -1650,3 +1650,5 @@ Chuck Norris was banned from competitive bullriding after a 1992 exhibition in S
 An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 
 Failure is not an option. It comes bundled with your Microsoft product.
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
