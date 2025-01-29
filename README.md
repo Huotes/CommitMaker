@@ -1668,3 +1668,5 @@ Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
 Chuck Norris uses tabasco sauce instead of visine.
 
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+
+Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
