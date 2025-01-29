@@ -1644,3 +1644,5 @@ Java programmers are some of the most materialistic people I know, very object-o
 Chuck Norris can install iTunes without installing Quicktime.
 
 There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+
+Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
