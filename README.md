@@ -1664,3 +1664,5 @@ Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark,
 Black holes are where God divided by zero.
 
 Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+
+Chuck Norris uses tabasco sauce instead of visine.
