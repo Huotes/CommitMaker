@@ -1632,3 +1632,5 @@ Chuck Norris shot the sheriff, but he round house kicked the deputy.
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
+
+With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
