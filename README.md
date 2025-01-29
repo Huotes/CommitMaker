@@ -1636,3 +1636,5 @@ If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'.
 With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 
 'It works on my machine' always holds true for Chuck Norris.
+
+The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
