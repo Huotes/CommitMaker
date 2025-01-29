@@ -1622,3 +1622,5 @@ Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eat
 E-mail returned to sender... insufficient voltage.
 
 Who called it female foeticide and not Binary ?
+
+Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
