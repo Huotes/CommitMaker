@@ -1660,3 +1660,5 @@ Chuck Norris does not eat. Food understands that the only safe haven from Chuck 
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+
+Black holes are where God divided by zero.
