@@ -1642,3 +1642,5 @@ The opening scene of the movie 'Saving Private Ryan' is loosely based on games o
 Java programmers are some of the most materialistic people I know, very object-oriented
 
 Chuck Norris can install iTunes without installing Quicktime.
+
+There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
