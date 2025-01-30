@@ -1706,3 +1706,5 @@ Chuck Norris can access private methods.
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 
 Theres no place like 127.0.0.1
+
+If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
