@@ -1680,3 +1680,5 @@ When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 Chuck Norris can overflow your stack just by looking at it.
 
 Chuck Norris uses tabasco sauce instead of visine.
+
+With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
