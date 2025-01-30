@@ -1686,3 +1686,5 @@ With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+
+Java programmers are some of the most materialistic people I know, very object-oriented
