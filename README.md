@@ -1694,3 +1694,5 @@ Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+
+Chuck Norris's first program was kill -9.
