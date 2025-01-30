@@ -1704,3 +1704,5 @@ Think of a hot woman. Chuck Norris did her.
 Chuck Norris can access private methods.
 
 The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+
+Theres no place like 127.0.0.1
