@@ -1696,3 +1696,5 @@ Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 
 Chuck Norris's first program was kill -9.
+
+NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
