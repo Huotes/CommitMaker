@@ -1674,3 +1674,5 @@ Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter c
 In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+
+When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
