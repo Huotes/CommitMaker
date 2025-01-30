@@ -1678,3 +1678,5 @@ In honor of Chuck Norris, all McDonald's in Texas have an even larger size than 
 When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 
 Chuck Norris can overflow your stack just by looking at it.
+
+Chuck Norris uses tabasco sauce instead of visine.
