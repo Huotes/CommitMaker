@@ -1716,3 +1716,5 @@ The phrase 'balls to the wall' was originally conceived to describe Chuck Norris
 When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
 
 If Ruby is not and Perl is the answer then you don’t understand the question.
+
+The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
