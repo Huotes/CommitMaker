@@ -1698,3 +1698,5 @@ They say curiosity killed the cat. This is false. Chuck Norris killed the cat. E
 Chuck Norris's first program was kill -9.
 
 NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
+
+Think of a hot woman. Chuck Norris did her.
