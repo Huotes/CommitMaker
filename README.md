@@ -1702,3 +1702,5 @@ NT is the only OS that has caused me to beat a piece of hardware to death with m
 Think of a hot woman. Chuck Norris did her.
 
 Chuck Norris can access private methods.
+
+The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
