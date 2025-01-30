@@ -1708,3 +1708,5 @@ The movie 'Delta Force' was extremely hard to make because Chuck had to downplay
 Theres no place like 127.0.0.1
 
 If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
+
+Chuck Norris once ate four 30lb bowling balls without chewing.
