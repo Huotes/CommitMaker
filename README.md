@@ -1672,3 +1672,5 @@ How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris p
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 
 In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+
+'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
