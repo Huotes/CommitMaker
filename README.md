@@ -1714,3 +1714,5 @@ Chuck Norris once ate four 30lb bowling balls without chewing.
 The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 
 When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
+
+If Ruby is not and Perl is the answer then you don’t understand the question.
