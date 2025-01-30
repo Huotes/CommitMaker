@@ -1692,3 +1692,5 @@ Java programmers are some of the most materialistic people I know, very object-o
 Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
 
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+
+They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
