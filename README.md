@@ -1670,3 +1670,5 @@ Chuck Norris uses tabasco sauce instead of visine.
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 
 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+
+In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
