@@ -1712,3 +1712,5 @@ If the box says: 'This software requires Windows 7 or better' Does that mean it'
 Chuck Norris once ate four 30lb bowling balls without chewing.
 
 The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
+
+When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
