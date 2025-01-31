@@ -1726,3 +1726,5 @@ The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck N
 Chuck Norris can overflow your stack just by looking at it.
 
 The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
+
+Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
