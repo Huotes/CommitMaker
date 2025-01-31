@@ -1722,3 +1722,5 @@ The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was
 They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+
+Chuck Norris can overflow your stack just by looking at it.
