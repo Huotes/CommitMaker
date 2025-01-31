@@ -1746,3 +1746,5 @@ Some things Man was never meant to know. For everything else there’s Google.
 Chuck Norris solved the halting problem.
 
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+
+Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
