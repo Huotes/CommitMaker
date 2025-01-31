@@ -1764,3 +1764,5 @@ Chuck Norris knows everything there is to know - Except for the definition of me
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
 
 182,000 Americans die from Chuck Norris-related accidents every year.
+
+If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
