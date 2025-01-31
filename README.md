@@ -1750,3 +1750,5 @@ Chuck Norris solved the halting problem.
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 
 TNT was originally developed by Chuck Norris to cure indigestion.
+
+Chuck Norris burst the dot com bubble.
