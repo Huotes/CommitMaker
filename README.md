@@ -1736,3 +1736,5 @@ The Internet: where men are men women are men and children are FBI agents.
 That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 
 Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+
+When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
