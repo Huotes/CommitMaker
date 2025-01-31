@@ -1740,3 +1740,5 @@ Chuck Norris has never been accused of murder because his roundhouse kicks are r
 When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 
 Chuck Norris can blow bubbles with beef jerky.
+
+Some things Man was never meant to know. For everything else there’s Google.
