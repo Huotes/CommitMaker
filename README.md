@@ -1748,3 +1748,5 @@ Chuck Norris solved the halting problem.
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
 
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+
+TNT was originally developed by Chuck Norris to cure indigestion.
