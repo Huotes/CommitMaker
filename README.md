@@ -1762,3 +1762,5 @@ There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norr
 Chuck Norris knows everything there is to know - Except for the definition of mercy.
 
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
+
+182,000 Americans die from Chuck Norris-related accidents every year.
