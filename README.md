@@ -1758,3 +1758,5 @@ Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' i
 Computers are like air conditioners: they stop working when you open Windows.
 
 There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+
+Chuck Norris knows everything there is to know - Except for the definition of mercy.
