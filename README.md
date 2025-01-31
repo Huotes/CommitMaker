@@ -1730,3 +1730,5 @@ The show Survivor had the original premise of putting people on an island with C
 Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
 
 Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+
+The Internet: where men are men women are men and children are FBI agents.
