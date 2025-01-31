@@ -1724,3 +1724,5 @@ They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn'
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 
 Chuck Norris can overflow your stack just by looking at it.
+
+The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
