@@ -1752,3 +1752,5 @@ Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 TNT was originally developed by Chuck Norris to cure indigestion.
 
 Chuck Norris burst the dot com bubble.
+
+Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
