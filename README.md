@@ -1732,3 +1732,5 @@ Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a qu
 Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 
 The Internet: where men are men women are men and children are FBI agents.
+
+That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
