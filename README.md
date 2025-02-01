@@ -1778,3 +1778,5 @@ There is no such thing as global warming. Chuck Norris was cold, so he turned th
 Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
 
 Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
+
+The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
