@@ -1766,3 +1766,5 @@ In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attentio
 182,000 Americans die from Chuck Norris-related accidents every year.
 
 If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+
+Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
