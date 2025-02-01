@@ -1804,3 +1804,5 @@ The class object inherits from Chuck Norris
 binary digits are called bits i love ternary digits
 
 The Bible was originally titled 'Chuck Norris and Friends'
+
+'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
