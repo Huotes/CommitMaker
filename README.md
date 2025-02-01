@@ -1774,3 +1774,5 @@ Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
 Newton's Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
 
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+
+Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
