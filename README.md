@@ -1776,3 +1776,5 @@ Newton's Third Law is wrong: Although it states that for each action, there is a
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 
 Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
+
+Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
