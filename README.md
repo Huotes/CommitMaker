@@ -1782,3 +1782,5 @@ Chuck Norris does not have to answer the phone. His beard picks up the incoming 
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+
+Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
