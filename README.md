@@ -1780,3 +1780,5 @@ Count from one to ten. That's how long it would take Chuck Norris to kill you...
 Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
 
 The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+
+Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
