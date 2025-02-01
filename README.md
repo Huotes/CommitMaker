@@ -1796,3 +1796,5 @@ Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+
+How does a Programmer COok food ? In O(1)
