@@ -1768,3 +1768,5 @@ In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attentio
 If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 
 Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+
+Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
