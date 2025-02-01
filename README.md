@@ -1812,3 +1812,5 @@ CNN was originally created as the 'Chuck Norris Network' to update Americans wit
 Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
 
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+
+Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
