@@ -1800,3 +1800,5 @@ Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and foo
 How does a Programmer COok food ? In O(1)
 
 The class object inherits from Chuck Norris
+
+binary digits are called bits i love ternary digits
