@@ -1798,3 +1798,5 @@ Chuck Norris originally wrote the first dictionary. The definition for each word
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
 
 How does a Programmer COok food ? In O(1)
+
+The class object inherits from Chuck Norris
