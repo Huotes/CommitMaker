@@ -1808,3 +1808,5 @@ The Bible was originally titled 'Chuck Norris and Friends'
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
 
 CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
+
+Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
