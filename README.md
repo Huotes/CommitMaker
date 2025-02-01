@@ -1810,3 +1810,5 @@ The Bible was originally titled 'Chuck Norris and Friends'
 CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
 
 Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+
+Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
