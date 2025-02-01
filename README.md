@@ -1790,3 +1790,5 @@ In the medical community, death is referred to as 'Chuck Norris Disease'
 Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 
 What does a subatomic duck say? Quark.
+
+Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
