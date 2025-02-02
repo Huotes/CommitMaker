@@ -1854,3 +1854,5 @@ Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, i
 Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 
 When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck Norris.
+
+Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint remover, and wood-grain alcohol.
