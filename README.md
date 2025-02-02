@@ -1816,3 +1816,5 @@ Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
 
 The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+
+Chuck Norris drives an ice cream truck covered in human skulls.
