@@ -1818,3 +1818,5 @@ Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun t
 The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 
 Chuck Norris drives an ice cream truck covered in human skulls.
+
+If at first you don't succeed, you're not Chuck Norris.
