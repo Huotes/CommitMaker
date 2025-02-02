@@ -1826,3 +1826,5 @@ Chuck Norris can win a game of Connect Four in only three moves.
 Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
 
 Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+
+When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
