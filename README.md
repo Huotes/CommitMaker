@@ -1860,3 +1860,5 @@ Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 
 Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
+
+SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
