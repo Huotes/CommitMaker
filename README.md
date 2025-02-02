@@ -1836,3 +1836,5 @@ When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
 Chuck Norris can solve the Towers of Hanoi in one move.
 
 Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
+
+Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
