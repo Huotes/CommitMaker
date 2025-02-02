@@ -1820,3 +1820,5 @@ The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 Chuck Norris drives an ice cream truck covered in human skulls.
 
 If at first you don't succeed, you're not Chuck Norris.
+
+Chuck Norris can win a game of Connect Four in only three moves.
