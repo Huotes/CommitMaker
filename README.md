@@ -1850,3 +1850,5 @@ Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpic
 According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 
 Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
