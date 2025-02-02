@@ -1822,3 +1822,5 @@ Chuck Norris drives an ice cream truck covered in human skulls.
 If at first you don't succeed, you're not Chuck Norris.
 
 Chuck Norris can win a game of Connect Four in only three moves.
+
+Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
