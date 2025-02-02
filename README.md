@@ -1844,3 +1844,5 @@ Chuck Norris ordered a Big Mac at Burger King, and got one.
 If you spell Chuck Norris in Scrabble, you win. Forever.
 
 When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
+
+Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
