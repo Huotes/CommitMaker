@@ -1842,3 +1842,5 @@ Chuck Norris will attain statehood in 2009. His state flower will be the Magnoli
 Chuck Norris ordered a Big Mac at Burger King, and got one.
 
 If you spell Chuck Norris in Scrabble, you win. Forever.
+
+When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
