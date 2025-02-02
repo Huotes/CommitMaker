@@ -1840,3 +1840,5 @@ Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
 Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
 
 Chuck Norris ordered a Big Mac at Burger King, and got one.
+
+If you spell Chuck Norris in Scrabble, you win. Forever.
