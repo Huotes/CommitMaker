@@ -1846,3 +1846,5 @@ If you spell Chuck Norris in Scrabble, you win. Forever.
 When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
 
 Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+
+According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
