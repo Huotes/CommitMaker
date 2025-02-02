@@ -1830,3 +1830,5 @@ Chuck Norris is the only human being to display the Heisenberg uncertainty princ
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 
 Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
+
+When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
