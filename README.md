@@ -1884,3 +1884,5 @@ It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion d
 Why are fishes illiterate?Because C doesnt have Classes
 
 There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
+
+Chuck Norris never has to wax his skis because they're always slick with blood.
