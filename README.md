@@ -1864,3 +1864,5 @@ Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+
+To err is human – and to blame it on a computer is even more so.
