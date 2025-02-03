@@ -1870,3 +1870,5 @@ To err is human – and to blame it on a computer is even more so.
 'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+
+SON: What are clouds made of? DAD: Linux servers, mostly
