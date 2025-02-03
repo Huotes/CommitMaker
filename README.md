@@ -1890,3 +1890,5 @@ Chuck Norris never has to wax his skis because they're always slick with blood.
 Chuck Norris sleeps with a pillow under his gun.
 
 Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
+
+Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
