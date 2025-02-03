@@ -1888,3 +1888,5 @@ There are only two things that can cut diamonds: other diamonds, and Chuck Norri
 Chuck Norris never has to wax his skis because they're always slick with blood.
 
 Chuck Norris sleeps with a pillow under his gun.
+
+Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
