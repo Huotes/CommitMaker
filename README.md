@@ -1880,3 +1880,5 @@ As a teen, Chuck Norris had sex with every nun in a convent tucked away in the h
 Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
 
 It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
+
+Why are fishes illiterate?Because C doesnt have Classes
