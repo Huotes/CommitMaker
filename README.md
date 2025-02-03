@@ -1908,3 +1908,5 @@ Chuck Norris's beard can type 140 wpm.
 Coroners refer to dead people as 'ABC's'. Already Been Chucked.
 
 The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+
+An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
