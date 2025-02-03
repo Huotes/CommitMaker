@@ -1906,3 +1906,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris's beard can type 140 wpm.
 
 Coroners refer to dead people as 'ABC's'. Already Been Chucked.
+
+The box said ‘Requires Windows Vista or better’. So I installed LINUX.
