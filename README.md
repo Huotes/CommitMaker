@@ -1872,3 +1872,5 @@ To err is human – and to blame it on a computer is even more so.
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 
 SON: What are clouds made of? DAD: Linux servers, mostly
+
+Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
