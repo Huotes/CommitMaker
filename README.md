@@ -1886,3 +1886,5 @@ Why are fishes illiterate?Because C doesnt have Classes
 There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
 
 Chuck Norris never has to wax his skis because they're always slick with blood.
+
+Chuck Norris sleeps with a pillow under his gun.
