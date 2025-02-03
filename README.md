@@ -1898,3 +1898,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris doesn't play god. Playing is for children.
 
 If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+
+Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
