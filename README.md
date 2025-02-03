@@ -1876,3 +1876,5 @@ SON: What are clouds made of? DAD: Linux servers, mostly
 Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 
 As a teen, Chuck Norris had sex with every nun in a convent tucked away in the hills of Tuscany. Nine months later the nuns gave birth to the 1972 Miami Dolphins, the only undefeated and untied team in professional football history.
+
+Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
