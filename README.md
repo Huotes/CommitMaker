@@ -1882,3 +1882,5 @@ Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetim
 It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
 
 Why are fishes illiterate?Because C doesnt have Classes
+
+There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
