@@ -1934,3 +1934,5 @@ The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the 
 Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+
+Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
