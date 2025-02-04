@@ -1938,3 +1938,5 @@ There is no such thing as global warming. Chuck Norris was cold, so he turned th
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 
 In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
+
+Chuck Norris sheds his skin twice a year.
