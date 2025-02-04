@@ -1936,3 +1936,5 @@ Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: 
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+
+In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
