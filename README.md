@@ -1928,3 +1928,5 @@ In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep.
 Only Chuck Norris can prevent forest fires.
 
 Chuck Norris doesn't pair program.
+
+The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
