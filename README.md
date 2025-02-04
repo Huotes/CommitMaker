@@ -1912,3 +1912,5 @@ The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+
+Chuck Norris was once in a knife fight, and the knife lost.
