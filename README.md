@@ -1930,3 +1930,5 @@ Only Chuck Norris can prevent forest fires.
 Chuck Norris doesn't pair program.
 
 The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
+
+Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
