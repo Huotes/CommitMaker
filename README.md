@@ -1952,3 +1952,5 @@ Real programmers start counting from 0
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 
 If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
+
+Chuck Norris doesn't see dead people. He makes people dead.
