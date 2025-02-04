@@ -1950,3 +1950,5 @@ Michael Sinz: “Programming is like sex... one mistake and you have to support 
 Real programmers start counting from 0
 
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+
+If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
