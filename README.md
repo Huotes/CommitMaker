@@ -1918,3 +1918,5 @@ Chuck Norris was once in a knife fight, and the knife lost.
 CAPS LOCK – Preventing Login Since 1980.
 
 Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+
+Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
