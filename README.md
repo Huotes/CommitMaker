@@ -1948,3 +1948,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 
 Real programmers start counting from 0
+
+Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
