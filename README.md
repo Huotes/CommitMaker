@@ -1914,3 +1914,5 @@ An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what tha
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 
 Chuck Norris was once in a knife fight, and the knife lost.
+
+CAPS LOCK – Preventing Login Since 1980.
