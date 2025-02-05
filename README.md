@@ -1958,3 +1958,5 @@ Chuck Norris doesn't see dead people. He makes people dead.
 Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
 
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x776764568980>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
+
+Mr. T pities the fool. Chuck Norris rips the fool's head off.
