@@ -2002,3 +2002,5 @@ Enter any 11-digit prime number to continue.
 Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 
 Chuck Norris invented the internet? just so he had a place to store his porn.
+
+Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
