@@ -1986,3 +1986,5 @@ The truth will set you free. Unless Chuck Norris has you, in which case, forget 
 With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
+
+Whiteboards are white because Chuck Norris scared them that way.
