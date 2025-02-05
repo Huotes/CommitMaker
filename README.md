@@ -1996,3 +1996,5 @@ Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 Chuck Norris can overflow your stack just by looking at it.
 
 Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+
+Enter any 11-digit prime number to continue.
