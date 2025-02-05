@@ -1998,3 +1998,5 @@ Chuck Norris can overflow your stack just by looking at it.
 Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
 
 Enter any 11-digit prime number to continue.
+
+Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
