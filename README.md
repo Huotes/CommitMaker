@@ -2000,3 +2000,5 @@ Divide Chuck Norris by zero and you will in fact get one........one bad-ass that
 Enter any 11-digit prime number to continue.
 
 Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+
+Chuck Norris invented the internet? just so he had a place to store his porn.
