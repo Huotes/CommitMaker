@@ -2004,3 +2004,5 @@ Aliens DO indeed exist. They just know better than to visit a planet that Chuck 
 Chuck Norris invented the internet? just so he had a place to store his porn.
 
 Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+
+Chuck Norris did in fact, build Rome in a day.
