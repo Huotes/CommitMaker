@@ -1990,3 +1990,5 @@ Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day
 Whiteboards are white because Chuck Norris scared them that way.
 
 Chuck Norris likes his ice like he likes his skulls: crushed.
+
+Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
