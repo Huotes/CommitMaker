@@ -1988,3 +1988,5 @@ With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+Chuck Norris likes his ice like he likes his skulls: crushed.
