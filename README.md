@@ -2010,3 +2010,5 @@ Chuck Norris did in fact, build Rome in a day.
 What does a subatomic duck say? Quark.
 
 It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
+
+Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
