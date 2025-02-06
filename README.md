@@ -2050,3 +2050,5 @@ Java programmers are some of the most materialistic people I know, very object-o
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 
 Black holes are where God divided by zero.
+
+That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
