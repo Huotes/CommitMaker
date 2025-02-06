@@ -2052,3 +2052,5 @@ Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it w
 Black holes are where God divided by zero.
 
 That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
+
+All browsers support the hex definitions #chuck and #norris for the colors black and blue.
