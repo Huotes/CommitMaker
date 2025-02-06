@@ -2038,3 +2038,5 @@ Why is C sad? Because C++ told him 'You have no class'.
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 
 Chuck Norris hosting is 101% uptime guaranteed.
+
+Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
