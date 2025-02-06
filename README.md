@@ -2048,3 +2048,5 @@ Chuck Norris always knows the EXACT location of Carmen SanDiego.
 Java programmers are some of the most materialistic people I know, very object-oriented
 
 Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+
+Black holes are where God divided by zero.
