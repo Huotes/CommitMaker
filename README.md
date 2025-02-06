@@ -2042,3 +2042,5 @@ Chuck Norris hosting is 101% uptime guaranteed.
 Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
 
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+
+Chuck Norris always knows the EXACT location of Carmen SanDiego.
