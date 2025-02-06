@@ -2030,3 +2030,5 @@ Hand over the calculator... friends don’t let friends derive drunk.
 I don't see women as objects. I consider each to be in a class of her own.
 
 While urinating, Chuck Norris is easily capable of welding titanium.
+
+Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
