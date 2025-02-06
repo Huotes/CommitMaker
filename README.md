@@ -2022,3 +2022,5 @@ Linux: Born to be root. Windows: Born to re-boot
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
 
 Chuck Norris finished World of Warcraft.
+
+In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
