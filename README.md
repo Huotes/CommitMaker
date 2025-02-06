@@ -2046,3 +2046,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 Chuck Norris always knows the EXACT location of Carmen SanDiego.
 
 Java programmers are some of the most materialistic people I know, very object-oriented
+
+Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
