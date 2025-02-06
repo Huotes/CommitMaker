@@ -2020,3 +2020,5 @@ Little known medical fact: Chuck Norris invented the Caesarean section when he r
 Linux: Born to be root. Windows: Born to re-boot
 
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+
+Chuck Norris finished World of Warcraft.
