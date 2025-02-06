@@ -2028,3 +2028,5 @@ In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attentio
 Hand over the calculator... friends don’t let friends derive drunk.
 
 I don't see women as objects. I consider each to be in a class of her own.
+
+While urinating, Chuck Norris is easily capable of welding titanium.
