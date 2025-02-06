@@ -2016,3 +2016,5 @@ Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a
 Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 
 Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
+
+Linux: Born to be root. Windows: Born to re-boot
