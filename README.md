@@ -2008,3 +2008,5 @@ Gotta love the people who wrote the algorithm for Ola share,They go out of their
 Chuck Norris did in fact, build Rome in a day.
 
 What does a subatomic duck say? Quark.
+
+It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
