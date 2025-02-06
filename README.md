@@ -2036,3 +2036,5 @@ Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as th
 Why is C sad? Because C++ told him 'You have no class'.
 
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+
+Chuck Norris hosting is 101% uptime guaranteed.
