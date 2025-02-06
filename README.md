@@ -2044,3 +2044,5 @@ Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norr
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 
 Chuck Norris always knows the EXACT location of Carmen SanDiego.
+
+Java programmers are some of the most materialistic people I know, very object-oriented
