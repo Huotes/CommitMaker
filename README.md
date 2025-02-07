@@ -2090,3 +2090,5 @@ Be nice to the nerds; for all you know they might be the next Bill Gates!
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 
 Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
+
+Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
