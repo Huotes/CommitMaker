@@ -2096,3 +2096,5 @@ Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck N
 It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
 
 The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+
+Chuck Norris doesn't wash his clothes. He disembowels them.
