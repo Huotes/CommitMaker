@@ -2066,3 +2066,5 @@ Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallow
 MySpace actually isn't your space, it's Chuck's (he just lets you use it).
 
 Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+
+When Chuck Norris says 'More cowbell', he MEANS it.
