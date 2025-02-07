@@ -2092,3 +2092,5 @@ Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer 
 Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 
 Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
+
+It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
