@@ -2058,3 +2058,5 @@ All browsers support the hex definitions #chuck and #norris for the colors black
 SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 
 Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
+
+Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
