@@ -2064,3 +2064,5 @@ Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is u
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 
 MySpace actually isn't your space, it's Chuck's (he just lets you use it).
+
+Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
