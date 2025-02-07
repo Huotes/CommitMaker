@@ -2098,3 +2098,5 @@ It is said that looking into Chuck Norris' eyes will reveal your future. Unfortu
 The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
 
 Chuck Norris doesn't wash his clothes. He disembowels them.
+
+If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
