@@ -2056,3 +2056,5 @@ That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth a
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 
 SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
+
+Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
