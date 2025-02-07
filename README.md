@@ -2054,3 +2054,5 @@ Black holes are where God divided by zero.
 That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+
+SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
