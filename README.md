@@ -2082,3 +2082,5 @@ Google won't search for Chuck Norris because it knows you don't find Chuck Norri
 Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
 
 Chuck Norris crossed the road. No one has ever dared question his motives.
+
+Chuck Norris doesn't wash his clothes. He disembowels them.
