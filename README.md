@@ -2100,3 +2100,5 @@ The only sure things are Death and Taxes?and when Chuck Norris goes to work for 
 Chuck Norris doesn't wash his clothes. He disembowels them.
 
 If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
+
+Why does a burger have less energy than a steak? A burger is in its ground state.
