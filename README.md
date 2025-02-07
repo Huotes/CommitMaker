@@ -2078,3 +2078,5 @@ If you work in an office with Chuck Norris, don't ask him for his three-hole-pun
 Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 
 Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
+
+Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
