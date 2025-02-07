@@ -2080,3 +2080,5 @@ Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
 
 Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
+
+Chuck Norris crossed the road. No one has ever dared question his motives.
