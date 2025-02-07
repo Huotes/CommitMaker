@@ -2062,3 +2062,5 @@ Chuck Norris owns a chain of fast-food restaurants throughout the southwest. The
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 
 Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+
+MySpace actually isn't your space, it's Chuck's (he just lets you use it).
