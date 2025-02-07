@@ -2084,3 +2084,5 @@ Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colomb
 Chuck Norris crossed the road. No one has ever dared question his motives.
 
 Chuck Norris doesn't wash his clothes. He disembowels them.
+
+Be nice to the nerds; for all you know they might be the next Bill Gates!
