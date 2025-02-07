@@ -2074,3 +2074,5 @@ Whiteboards are white because Chuck Norris scared them that way.
 The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
 
 If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+
+Chuck Norris programs occupy 150% of CPU, even when they are not executing.
