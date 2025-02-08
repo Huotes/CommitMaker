@@ -2110,3 +2110,5 @@ When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been
 Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 
 Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
+
+Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
