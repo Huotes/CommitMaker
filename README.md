@@ -2132,3 +2132,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
 
 'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+
+What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
