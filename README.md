@@ -2112,3 +2112,5 @@ Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: 
 Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
 
 Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+
+Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
