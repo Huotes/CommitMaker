@@ -2148,3 +2148,5 @@ A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+
+How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
