@@ -2106,3 +2106,5 @@ Why does a burger have less energy than a steak? A burger is in its ground state
 Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn't like Fudge Ripple.
 
 When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+
+Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
