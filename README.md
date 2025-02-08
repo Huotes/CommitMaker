@@ -2122,3 +2122,5 @@ When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35,
 A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
 
 Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+
+'It works on my machine' always holds true for Chuck Norris.
