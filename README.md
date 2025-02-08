@@ -2118,3 +2118,5 @@ Chuck Norris used to play baseball. When Babe Ruth was hailed as the better play
 UNIX is user friendly, it's just very particular about who it's friends are.
 
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
+
+A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
