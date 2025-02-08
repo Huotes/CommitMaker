@@ -2140,3 +2140,5 @@ If tapped, a Chuck Norris roundhouse kick could power the country of Australia f
 MySpace actually isn't your space, it's Chuck's (he just lets you use it).
 
 Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+
+Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
