@@ -2142,3 +2142,5 @@ MySpace actually isn't your space, it's Chuck's (he just lets you use it).
 Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 
 Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+
+A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
