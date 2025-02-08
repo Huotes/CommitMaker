@@ -2136,3 +2136,5 @@ Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
 What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
 
 If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+
+MySpace actually isn't your space, it's Chuck's (he just lets you use it).
