@@ -2124,3 +2124,5 @@ A programmer is having trouble with his keyboard double-pressing. He asks his co
 Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
 
 'It works on my machine' always holds true for Chuck Norris.
+
+Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
