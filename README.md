@@ -2116,3 +2116,5 @@ Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
 
 UNIX is user friendly, it's just very particular about who it's friends are.
+
+When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
