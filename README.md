@@ -2180,3 +2180,5 @@ Most tough men eat nails for breakfast. Chuck Norris does all of his grocery sho
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 
 If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
+
+Chuck Norris can install iTunes without installing Quicktime.
