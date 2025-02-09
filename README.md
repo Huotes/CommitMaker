@@ -2182,3 +2182,5 @@ The chemical formula for the highly toxic cyanide ion is CN-. These are also Chu
 If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 
 Chuck Norris can install iTunes without installing Quicktime.
+
+Black holes are where God divided by zero.
