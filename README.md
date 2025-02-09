@@ -2194,3 +2194,5 @@ Every time someone uses the word 'intense', Chuck Norris always replies 'you kno
 Chuck Norris is the reason why Waldo is hiding.
 
 July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
+
+Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
