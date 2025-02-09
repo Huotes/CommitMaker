@@ -2154,3 +2154,5 @@ How do you tell an introverted computer scientist from an extroverted computer s
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 
 Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
+
+All browsers support the hex definitions #chuck and #norris for the colors black and blue.
