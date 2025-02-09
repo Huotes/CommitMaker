@@ -2168,3 +2168,5 @@ In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attentio
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 
 When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+
+In a world without fences and walls... who needs Gates and Windows?
