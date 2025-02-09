@@ -2172,3 +2172,5 @@ When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick
 In a world without fences and walls... who needs Gates and Windows?
 
 Chuck Norris? favourite cut of meat is the roundhouse.
+
+Who called it female foeticide and not Binary ?
