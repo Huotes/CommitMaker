@@ -2174,3 +2174,5 @@ In a world without fences and walls... who needs Gates and Windows?
 Chuck Norris? favourite cut of meat is the roundhouse.
 
 Who called it female foeticide and not Binary ?
+
+Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
