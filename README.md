@@ -2196,3 +2196,5 @@ Chuck Norris is the reason why Waldo is hiding.
 July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 
 Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
+
+James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
