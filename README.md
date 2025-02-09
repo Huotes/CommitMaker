@@ -2176,3 +2176,5 @@ Chuck Norris? favourite cut of meat is the roundhouse.
 Who called it female foeticide and not Binary ?
 
 Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+
+The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
