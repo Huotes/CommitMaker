@@ -2192,3 +2192,5 @@ Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 
 Chuck Norris is the reason why Waldo is hiding.
+
+July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
