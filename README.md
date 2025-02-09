@@ -2160,3 +2160,5 @@ All browsers support the hex definitions #chuck and #norris for the colors black
 Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 
 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+
+Le gf: I'll dump you.Le bf: hex dump or binary dump? 
