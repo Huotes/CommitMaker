@@ -2156,3 +2156,5 @@ How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris p
 Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
 
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+
+Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
