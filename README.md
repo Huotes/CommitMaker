@@ -2162,3 +2162,5 @@ Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas tha
 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 
 Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+
+In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
