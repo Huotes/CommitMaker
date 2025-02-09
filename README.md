@@ -2152,3 +2152,5 @@ The chemical formula for the highly toxic cyanide ion is CN-. These are also Chu
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 
 How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+
+Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
