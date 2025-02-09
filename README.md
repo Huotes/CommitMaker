@@ -2186,3 +2186,5 @@ Chuck Norris can install iTunes without installing Quicktime.
 Black holes are where God divided by zero.
 
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+
+Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
