@@ -2184,3 +2184,5 @@ If, by some incredible space-time paradox, Chuck Norris would ever fight himself
 Chuck Norris can install iTunes without installing Quicktime.
 
 Black holes are where God divided by zero.
+
+Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
