@@ -2158,3 +2158,5 @@ Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the sh
 All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 
 Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+
+1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
