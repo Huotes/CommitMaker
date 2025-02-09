@@ -2166,3 +2166,5 @@ Le gf: I'll dump you.Le bf: hex dump or binary dump?
 In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
 
 For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+
+When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
