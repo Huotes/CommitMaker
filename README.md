@@ -2226,3 +2226,5 @@ According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' h
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 
 Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
+
+Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
