@@ -2228,3 +2228,5 @@ All arrays Chuck Norris declares are of infinite size, because Chuck Norris know
 Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
 
 Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+
+Why did I divide sin by tan? Just cos.
