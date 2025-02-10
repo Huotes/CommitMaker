@@ -2230,3 +2230,5 @@ Chuck Norris can do a roundhouse kick faster than the speed of light. This means
 Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
 
 Why did I divide sin by tan? Just cos.
+
+Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
