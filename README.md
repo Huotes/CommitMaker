@@ -2222,3 +2222,5 @@ Michael Sinz: “Programming is like sex... one mistake and you have to support 
 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 
 According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
