@@ -2210,3 +2210,5 @@ Every time someone uses the word 'intense', Chuck Norris always replies 'you kno
 Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+
+Chuck Norris has banned rainbows from the state of North Dakota.
