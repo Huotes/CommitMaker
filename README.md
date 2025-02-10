@@ -2218,3 +2218,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Real programmers start counting from 0
 
 Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
+
+1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
