@@ -2212,3 +2212,5 @@ Chuck Norris is the only person in the world that can actually email a roundhous
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 
 Chuck Norris has banned rainbows from the state of North Dakota.
+
+Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x71f99eb9d3d0>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
