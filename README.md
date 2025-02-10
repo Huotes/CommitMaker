@@ -2240,3 +2240,5 @@ Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: 
 Chuck Norris drives an ice cream truck covered in human skulls.
 
 I’m not anti-social; I’m just not user friendly.
+
+An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
