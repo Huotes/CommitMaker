@@ -2244,3 +2244,5 @@ I’m not anti-social; I’m just not user friendly.
 An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 
 Chuck Norris can solve the Towers of Hanoi in one move.
+
+Windows isn’t a virus atleast viruses do something.
