@@ -2232,3 +2232,5 @@ Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as th
 Why did I divide sin by tan? Just cos.
 
 Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+
+Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
