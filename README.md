@@ -2202,3 +2202,5 @@ James Cameron wanted Chuck Norris to play the Terminator. However, upon reflecti
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 
 My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+
+When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
