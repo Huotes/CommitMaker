@@ -2236,3 +2236,5 @@ Noah was the only man notified before Chuck Norris relieved himself in the Atlan
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
 
 Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
+
+Chuck Norris drives an ice cream truck covered in human skulls.
