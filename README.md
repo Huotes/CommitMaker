@@ -2206,3 +2206,5 @@ My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes;
 When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
 
 Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+
+Chuck Norris is the only person in the world that can actually email a roundhouse kick.
