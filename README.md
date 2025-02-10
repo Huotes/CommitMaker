@@ -2200,3 +2200,5 @@ Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' i
 James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
 
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+
+My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
