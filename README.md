@@ -2224,3 +2224,5 @@ Michael Sinz: “Programming is like sex... one mistake and you have to support 
 According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+
+Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
