@@ -2284,3 +2284,5 @@ Chuck Norris once sued Burger King after they refused to put razor wire in his W
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 
 Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
+
+If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
