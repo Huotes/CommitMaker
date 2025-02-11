@@ -2256,3 +2256,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 Chuck Norris can blow bubbles with beef jerky.
 
 Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+
+There are no steroids in baseball. Just players Chuck Norris has breathed on.
