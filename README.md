@@ -2266,3 +2266,5 @@ Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of S
 Chuck Norris uses tabasco sauce instead of visine.
 
 Hand over the calculator... friends don’t let friends derive drunk.
+
+Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
