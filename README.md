@@ -2278,3 +2278,5 @@ If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'.
 Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 
 When Chuck Norris does division, there are no remainders.
+
+Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
