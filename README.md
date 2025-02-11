@@ -2254,3 +2254,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 
 Chuck Norris can blow bubbles with beef jerky.
+
+Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
