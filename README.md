@@ -2274,3 +2274,5 @@ Chuck Norris once ordered a steak in a restaurant. The steak did what it was tol
 Whiteboards are white because Chuck Norris scared them that way.
 
 If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
+
+Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
