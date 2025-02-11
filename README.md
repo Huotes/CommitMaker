@@ -2290,3 +2290,5 @@ If you work in an office with Chuck Norris, don't ask him for his three-hole-pun
 Why is C sad? Because C++ told him 'You have no class'.
 
 Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+
+The more I C.... the less I see.
