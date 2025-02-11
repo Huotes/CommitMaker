@@ -2264,3 +2264,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 
 Chuck Norris uses tabasco sauce instead of visine.
+
+Hand over the calculator... friends don’t let friends derive drunk.
