@@ -2246,3 +2246,5 @@ An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what tha
 Chuck Norris can solve the Towers of Hanoi in one move.
 
 Windows isn’t a virus atleast viruses do something.
+
+Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
