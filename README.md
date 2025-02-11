@@ -2270,3 +2270,5 @@ Hand over the calculator... friends don’t let friends derive drunk.
 Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+
+Whiteboards are white because Chuck Norris scared them that way.
