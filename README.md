@@ -2272,3 +2272,5 @@ Scientists have estimated that the energy given off during the Big Bang is rough
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
