@@ -2298,3 +2298,5 @@ Why do fish likes nibbles the size of 2^n? So they can byte
 No statement can catch the ChuckNorrisException.
 
 Chuck Norris did in fact, build Rome in a day.
+
+Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
