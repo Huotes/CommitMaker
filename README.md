@@ -2340,3 +2340,5 @@ To be or not to be? That is the question. The answer? Chuck Norris.
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 
 Chuck Norris knows everything there is to know - Except for the definition of mercy.
+
+Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
