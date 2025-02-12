@@ -2336,3 +2336,5 @@ Chuck Norris once worked as a weatherman for the San Diego evening news. Every n
 What's the object-oriented way to become wealthy? Inheritance.
 
 To be or not to be? That is the question. The answer? Chuck Norris.
+
+On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
