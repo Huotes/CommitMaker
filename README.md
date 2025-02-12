@@ -2328,3 +2328,5 @@ There are no steroids in baseball. Just players Chuck Norris has breathed on.
 When Chuck Norris talks, everybody listens. And dies.
 
 Chuck Norris always knows the EXACT location of Carmen SanDiego.
+
+There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
