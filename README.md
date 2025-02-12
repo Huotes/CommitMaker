@@ -2326,3 +2326,5 @@ There are no steroids in baseball. Just players Chuck Norris has breathed on.
 182,000 Americans die from Chuck Norris-related accidents every year.
 
 When Chuck Norris talks, everybody listens. And dies.
+
+Chuck Norris always knows the EXACT location of Carmen SanDiego.
