@@ -2300,3 +2300,5 @@ No statement can catch the ChuckNorrisException.
 Chuck Norris did in fact, build Rome in a day.
 
 Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+
+The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
