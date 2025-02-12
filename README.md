@@ -2332,3 +2332,5 @@ Chuck Norris always knows the EXACT location of Carmen SanDiego.
 There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 
 Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+
+What's the object-oriented way to become wealthy? Inheritance.
