@@ -2322,3 +2322,5 @@ Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 
 There are no steroids in baseball. Just players Chuck Norris has breathed on.
+
+182,000 Americans die from Chuck Norris-related accidents every year.
