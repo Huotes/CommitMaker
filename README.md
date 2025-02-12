@@ -2296,3 +2296,5 @@ The more I C.... the less I see.
 Why do fish likes nibbles the size of 2^n? So they can byte
 
 No statement can catch the ChuckNorrisException.
+
+Chuck Norris did in fact, build Rome in a day.
