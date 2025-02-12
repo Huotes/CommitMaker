@@ -2310,3 +2310,5 @@ Chuck Norris sheds his skin twice a year.
 Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 
 Chuck Norris programs do not accept input.
+
+Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
