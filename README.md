@@ -2308,3 +2308,5 @@ In a recent survey it was discovered the 94% of American women lost their virgin
 Chuck Norris sheds his skin twice a year.
 
 Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
+
+Chuck Norris programs do not accept input.
