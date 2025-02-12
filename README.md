@@ -2314,3 +2314,5 @@ Chuck Norris programs do not accept input.
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 
 Chuck Norris's OSI network model has only one layer - Physical.
+
+Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
