@@ -2304,3 +2304,5 @@ Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 
 In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
+
+Chuck Norris sheds his skin twice a year.
