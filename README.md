@@ -2312,3 +2312,5 @@ Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is th
 Chuck Norris programs do not accept input.
 
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+
+Chuck Norris's OSI network model has only one layer - Physical.
