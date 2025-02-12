@@ -2324,3 +2324,5 @@ Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes 
 There are no steroids in baseball. Just players Chuck Norris has breathed on.
 
 182,000 Americans die from Chuck Norris-related accidents every year.
+
+When Chuck Norris talks, everybody listens. And dies.
