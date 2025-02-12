@@ -2306,3 +2306,5 @@ The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
 
 Chuck Norris sheds his skin twice a year.
+
+Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
