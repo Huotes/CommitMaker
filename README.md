@@ -2372,3 +2372,5 @@ Chuck Norris wipes his ass with chain mail and sandpaper.
 Why did the chicken cross the road? It was called with theOtherSide(chicken)
 
 There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+
+Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
