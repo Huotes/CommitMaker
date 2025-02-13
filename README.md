@@ -2382,3 +2382,5 @@ Chuck Norris once kicked a horse in the chin. Its decendants are known today as 
 Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 
 While urinating, Chuck Norris is easily capable of welding titanium.
+
+Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
