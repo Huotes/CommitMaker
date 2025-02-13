@@ -2378,3 +2378,5 @@ Hacking is like sex. You get in... you get out... and hope that you didn’t lea
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
 
 Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+
+Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
