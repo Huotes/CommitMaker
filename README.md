@@ -2348,3 +2348,5 @@ The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scrat
 Chuck Norris can spawn threads that complete before they are started.
 
 Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+
+Time waits for no man. Unless that man is Chuck Norris.
