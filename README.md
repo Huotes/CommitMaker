@@ -2370,3 +2370,5 @@ Why are fishes illiterate?Because C doesnt have Classes
 Chuck Norris wipes his ass with chain mail and sandpaper.
 
 Why did the chicken cross the road? It was called with theOtherSide(chicken)
+
+There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
