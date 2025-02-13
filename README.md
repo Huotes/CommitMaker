@@ -2386,3 +2386,5 @@ While urinating, Chuck Norris is easily capable of welding titanium.
 Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
 
 The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
+
+I would love to change the world but they won’t give me the source code.
