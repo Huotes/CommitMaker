@@ -2360,3 +2360,5 @@ On his birthday, Chuck Norris randomly selects one lucky child to be thrown into
 If at first you don’t succeed; call it version 1.0.
 
 Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+
+When Chuck Norris plays Monopoly, it affects the actual world economy.
