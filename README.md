@@ -2344,3 +2344,5 @@ Chuck Norris knows everything there is to know - Except for the definition of me
 Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
 
 The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+
+Chuck Norris can spawn threads that complete before they are started.
