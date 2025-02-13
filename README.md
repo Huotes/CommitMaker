@@ -2368,3 +2368,5 @@ Chuck Norris can skeletize a cow in two minutes.
 Why are fishes illiterate?Because C doesnt have Classes
 
 Chuck Norris wipes his ass with chain mail and sandpaper.
+
+Why did the chicken cross the road? It was called with theOtherSide(chicken)
