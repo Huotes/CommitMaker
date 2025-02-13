@@ -2352,3 +2352,5 @@ Staring at Chuck Norris for extended periods of time without proper eye protecti
 Time waits for no man. Unless that man is Chuck Norris.
 
 According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+
+Chuck Norris can taste lies.
