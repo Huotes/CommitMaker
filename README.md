@@ -2376,3 +2376,5 @@ There are no races, only countries of people Chuck Norris has beaten to differen
 Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 
 Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
+
+Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
