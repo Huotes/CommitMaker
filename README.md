@@ -2342,3 +2342,5 @@ On his birthday, Chuck Norris randomly selects one lucky child to be thrown into
 Chuck Norris knows everything there is to know - Except for the definition of mercy.
 
 Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
+
+The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
