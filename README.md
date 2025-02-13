@@ -2356,3 +2356,5 @@ According to Einstein's theory of relativity, Chuck Norris can actually roundhou
 Chuck Norris can taste lies.
 
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+
+If at first you don’t succeed; call it version 1.0.
