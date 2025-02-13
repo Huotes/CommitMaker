@@ -2380,3 +2380,5 @@ Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day
 Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 
 Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+
+While urinating, Chuck Norris is easily capable of welding titanium.
