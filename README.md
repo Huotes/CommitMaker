@@ -2364,3 +2364,5 @@ Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
 When Chuck Norris plays Monopoly, it affects the actual world economy.
 
 Chuck Norris can skeletize a cow in two minutes.
+
+Why are fishes illiterate?Because C doesnt have Classes
