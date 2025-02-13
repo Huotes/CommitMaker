@@ -2358,3 +2358,5 @@ Chuck Norris can taste lies.
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 
 If at first you don’t succeed; call it version 1.0.
+
+Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
