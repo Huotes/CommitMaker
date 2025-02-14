@@ -2412,3 +2412,5 @@ Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: 
 Evolution is God’s way of issuing upgrades.
 
 While urinating, Chuck Norris is easily capable of welding titanium.
+
+UNIX is user friendly, it's just very particular about who it's friends are.
