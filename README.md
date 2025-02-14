@@ -2394,3 +2394,5 @@ Theres no place like 127.0.0.1
 When Chuck Norris plays Monopoly, it affects the actual world economy.
 
 Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
+
+Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
