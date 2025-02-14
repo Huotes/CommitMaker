@@ -2398,3 +2398,5 @@ Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a h
 Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
 
 Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+
+The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
