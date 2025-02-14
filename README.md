@@ -2392,3 +2392,5 @@ I would love to change the world but they won’t give me the source code.
 Theres no place like 127.0.0.1
 
 When Chuck Norris plays Monopoly, it affects the actual world economy.
+
+Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
