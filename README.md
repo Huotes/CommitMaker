@@ -2418,3 +2418,5 @@ UNIX is user friendly, it's just very particular about who it's friends are.
 Chuck Norris always knows the EXACT location of Carmen SanDiego.
 
 When Chuck Norris makes a burrito, its main ingredient is real toes.
+
+Whiteboards are white because Chuck Norris scared them that way.
