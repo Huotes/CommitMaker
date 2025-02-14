@@ -2420,3 +2420,5 @@ Chuck Norris always knows the EXACT location of Carmen SanDiego.
 When Chuck Norris makes a burrito, its main ingredient is real toes.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
