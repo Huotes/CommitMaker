@@ -2430,3 +2430,5 @@ Chuck Norris? favourite cut of meat is the roundhouse.
 My attitude isn’t bad. It’s in beta.
 
 Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
+
+Everybody loves Raymond. Except Chuck Norris.
