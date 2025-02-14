@@ -2396,3 +2396,5 @@ When Chuck Norris plays Monopoly, it affects the actual world economy.
 Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 
 Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+
+Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
