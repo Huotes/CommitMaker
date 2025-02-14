@@ -2390,3 +2390,5 @@ The easiest way to determine Chuck Norris' age is to cut him in half and count t
 I would love to change the world but they won’t give me the source code.
 
 Theres no place like 127.0.0.1
+
+When Chuck Norris plays Monopoly, it affects the actual world economy.
