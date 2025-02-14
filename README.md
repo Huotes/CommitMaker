@@ -2404,3 +2404,5 @@ The best-laid plans of mice and men often go awry. Even the worst-laid plans of 
 When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 
 Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
+
+The only pattern Chuck Norris knows is God Object.
