@@ -2436,3 +2436,5 @@ Everybody loves Raymond. Except Chuck Norris.
 For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
 
 Chuck Norris has banned rainbows from the state of North Dakota.
+
+Whiteboards are white because Chuck Norris scared them that way.
