@@ -2424,3 +2424,5 @@ Whiteboards are white because Chuck Norris scared them that way.
 Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
 
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+
+Chuck Norris? favourite cut of meat is the roundhouse.
