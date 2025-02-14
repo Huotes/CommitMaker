@@ -2426,3 +2426,5 @@ Jack Bauer tried to use his detailed knowledge of torture techniques, but to no 
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 
 Chuck Norris? favourite cut of meat is the roundhouse.
+
+My attitude isn’t bad. It’s in beta.
