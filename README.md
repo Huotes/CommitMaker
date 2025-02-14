@@ -2400,3 +2400,5 @@ Chuck Norris grinds his coffee with his teeth and boils the water with his own r
 Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 
 The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
+
+When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
