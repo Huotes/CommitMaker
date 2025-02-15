@@ -2440,3 +2440,5 @@ Chuck Norris has banned rainbows from the state of North Dakota.
 Whiteboards are white because Chuck Norris scared them that way.
 
 What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
+
+Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
