@@ -2480,3 +2480,5 @@ Aliens DO indeed exist. They just know better than to visit a planet that Chuck 
 Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
 
 Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+
+Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
