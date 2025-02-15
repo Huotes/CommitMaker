@@ -2456,3 +2456,5 @@ Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 Chuck Norris? favourite cut of meat is the roundhouse.
 
 Evolution is God’s way of issuing upgrades.
+
+Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
