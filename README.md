@@ -2476,3 +2476,5 @@ Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck N
 Programmer (noun.): A machine that turns coffee into code
 
 Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+
+Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
