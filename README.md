@@ -2442,3 +2442,5 @@ Whiteboards are white because Chuck Norris scared them that way.
 What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
 
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+
+Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
