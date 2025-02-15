@@ -2452,3 +2452,5 @@ If you Google search 'Chuck Norris getting his ass kicked' you will generate zer
 Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 
 Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+
+Chuck Norris? favourite cut of meat is the roundhouse.
