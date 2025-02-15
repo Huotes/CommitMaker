@@ -2438,3 +2438,5 @@ For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled 
 Chuck Norris has banned rainbows from the state of North Dakota.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
