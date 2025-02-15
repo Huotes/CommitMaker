@@ -2460,3 +2460,5 @@ Evolution is God’s way of issuing upgrades.
 Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 
 Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
+
+Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
