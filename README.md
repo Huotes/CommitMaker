@@ -2484,3 +2484,5 @@ Chuck Norris is the only human being to display the Heisenberg uncertainty princ
 Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
 
 Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
+
+Chuck Norris can write infinite recursion functions and have them return.
