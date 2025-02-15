@@ -2446,3 +2446,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 
 Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+
+If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
