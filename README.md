@@ -2474,3 +2474,5 @@ The opening scene of the movie 'Saving Private Ryan' is loosely based on games o
 Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 
 Programmer (noun.): A machine that turns coffee into code
+
+Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
