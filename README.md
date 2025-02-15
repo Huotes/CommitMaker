@@ -2450,3 +2450,5 @@ Chuck Norris invented a language that incorporates karate and roundhouse kicks. 
 If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 
 Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+
+Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
