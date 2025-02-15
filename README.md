@@ -2472,3 +2472,5 @@ There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norr
 The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 
 Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+
+Programmer (noun.): A machine that turns coffee into code
