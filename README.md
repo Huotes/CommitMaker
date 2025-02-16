@@ -2530,3 +2530,5 @@ My software never has bugs. It just develops random features.
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 
 It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
+
+The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
