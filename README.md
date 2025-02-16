@@ -2520,3 +2520,5 @@ It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion d
 Chuck Norris can start a fire by rubbing two ice cubes together.
 
 Chuck Norris sheds his skin twice a year.
+
+The only pattern Chuck Norris knows is God Object.
