@@ -2486,3 +2486,5 @@ Chuck Norris once ate a whole cake before his friends could tell him there was a
 Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 
 Chuck Norris can write infinite recursion functions and have them return.
+
+If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
