@@ -2494,3 +2494,5 @@ Latest survey shows that 3 out of 4 people make up 75% of the world’s populati
 When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 
 Some kids play Kick the can. Chuck Norris played Kick the keg.
+
+In a world without fences and walls... who needs Gates and Windows?
