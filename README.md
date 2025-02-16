@@ -2488,3 +2488,5 @@ Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 Chuck Norris can write infinite recursion functions and have them return.
 
 If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
+
+Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
