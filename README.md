@@ -2526,3 +2526,5 @@ The only pattern Chuck Norris knows is God Object.
 Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 
 My software never has bugs. It just develops random features.
+
+Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
