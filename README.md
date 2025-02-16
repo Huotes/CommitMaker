@@ -2502,3 +2502,5 @@ Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her i
 If Ruby is not and Perl is the answer then you don’t understand the question.
 
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+
+Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
