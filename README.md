@@ -2496,3 +2496,5 @@ When in a bar, you can order a drink called a 'Chuck Norris'. It is also known a
 Some kids play Kick the can. Chuck Norris played Kick the keg.
 
 In a world without fences and walls... who needs Gates and Windows?
+
+Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
