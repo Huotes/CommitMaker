@@ -2524,3 +2524,5 @@ Chuck Norris sheds his skin twice a year.
 The only pattern Chuck Norris knows is God Object.
 
 Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+
+My software never has bugs. It just develops random features.
