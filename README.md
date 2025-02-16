@@ -2498,3 +2498,5 @@ Some kids play Kick the can. Chuck Norris played Kick the keg.
 In a world without fences and walls... who needs Gates and Windows?
 
 Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+
+If Ruby is not and Perl is the answer then you don’t understand the question.
