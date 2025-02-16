@@ -2508,3 +2508,5 @@ Chuck Norris eats steak for every single meal. Most times he forgets to kill the
 All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 
 A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
+
+Chuck Norris programs do not accept input.
