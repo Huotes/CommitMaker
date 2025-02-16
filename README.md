@@ -2492,3 +2492,5 @@ If you were somehow able to land a punch on Chuck Norris your entire arm would s
 Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 
 When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+
+Some kids play Kick the can. Chuck Norris played Kick the keg.
