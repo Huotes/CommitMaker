@@ -2528,3 +2528,5 @@ Kryptonite has been found to contain trace elements of Chuck Norris roundhouse k
 My software never has bugs. It just develops random features.
 
 Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
+
+It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
