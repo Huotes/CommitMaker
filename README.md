@@ -2504,3 +2504,5 @@ If Ruby is not and Perl is the answer then you don’t understand the question.
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 
 Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+
+All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
