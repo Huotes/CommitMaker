@@ -2578,3 +2578,5 @@ Chuck Norris once went skydiving, but promised never to do it again. One Grand C
 Everybody loves Raymond. Except Chuck Norris.
 
 Chuck Norris wears a live rattlesnake as a condom.
+
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
