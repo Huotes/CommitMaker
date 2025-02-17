@@ -2570,3 +2570,5 @@ My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes;
 Why do fish likes nibbles the size of 2^n? So they can byte
 
 Chuck Norris doesn't play god. Playing is for children.
+
+Chuck Norris's OSI network model has only one layer - Physical.
