@@ -2536,3 +2536,5 @@ The opening scene of the movie 'Saving Private Ryan' is loosely based on games o
 That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 
 Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+
+Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
