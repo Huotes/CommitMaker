@@ -2572,3 +2572,5 @@ Why do fish likes nibbles the size of 2^n? So they can byte
 Chuck Norris doesn't play god. Playing is for children.
 
 Chuck Norris's OSI network model has only one layer - Physical.
+
+Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
