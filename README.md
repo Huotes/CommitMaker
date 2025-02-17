@@ -2566,3 +2566,5 @@ CAPS LOCK – Preventing Login Since 1980.
 When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
 
 My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+
+Why do fish likes nibbles the size of 2^n? So they can byte
