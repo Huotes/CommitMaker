@@ -2562,3 +2562,5 @@ CAPS LOCK – Preventing Login Since 1980.
 MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 
 CAPS LOCK – Preventing Login Since 1980.
+
+When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
