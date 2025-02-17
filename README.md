@@ -2534,3 +2534,5 @@ It is believed dinosaurs are extinct due to a giant meteor. That's true if you w
 The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 
 That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
+
+Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
