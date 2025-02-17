@@ -2574,3 +2574,5 @@ Chuck Norris doesn't play god. Playing is for children.
 Chuck Norris's OSI network model has only one layer - Physical.
 
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+
+Everybody loves Raymond. Except Chuck Norris.
