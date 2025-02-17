@@ -2542,3 +2542,5 @@ Linus Torvalds: “Real men don’t use backups... they post their stuff on a pu
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 
 Chuck Norris was what Willis was talkin' about.
+
+Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
