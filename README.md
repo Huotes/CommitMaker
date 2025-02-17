@@ -2576,3 +2576,5 @@ Chuck Norris's OSI network model has only one layer - Physical.
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 
 Everybody loves Raymond. Except Chuck Norris.
+
+Chuck Norris wears a live rattlesnake as a condom.
