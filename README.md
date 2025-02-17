@@ -2558,3 +2558,5 @@ Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun t
 Chuck Norris once round-house kicked a salesman. Over the phone.
 
 CAPS LOCK – Preventing Login Since 1980.
+
+MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
