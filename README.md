@@ -2556,3 +2556,5 @@ Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire
 Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
 
 Chuck Norris once round-house kicked a salesman. Over the phone.
+
+CAPS LOCK – Preventing Login Since 1980.
