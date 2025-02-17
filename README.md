@@ -2564,3 +2564,5 @@ MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but C
 CAPS LOCK – Preventing Login Since 1980.
 
 When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
+
+My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
