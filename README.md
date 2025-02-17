@@ -2540,3 +2540,5 @@ Superman once watched an episode of Walker, Texas Ranger. He then cried himself 
 Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 
 Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+
+Chuck Norris was what Willis was talkin' about.
