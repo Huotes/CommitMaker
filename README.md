@@ -2584,3 +2584,5 @@ All arrays Chuck Norris declares are of infinite size, because Chuck Norris know
 Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 
 Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
+
+Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
