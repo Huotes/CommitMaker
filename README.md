@@ -2604,3 +2604,5 @@ Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 
 Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+
+Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
