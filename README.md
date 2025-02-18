@@ -2620,3 +2620,5 @@ Hand over the calculator... friends don’t let friends derive drunk.
 The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
 
 Chuck Norris eats lightning and shits out thunder.
+
+Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
