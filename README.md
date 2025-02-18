@@ -2590,3 +2590,5 @@ Chuck Norris doesn't have disk latency because the hard drive knows to hurry the
 Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
 
 We live in an expanding universe. All of it is trying to get away from Chuck Norris.
+
+Chuck Norris lost his virginity before his dad did.
