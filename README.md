@@ -2586,3 +2586,5 @@ Chuck Norris doesn't read books. He stares them down until he gets the informati
 Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
 
 Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+
+Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
