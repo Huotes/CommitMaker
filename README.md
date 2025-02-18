@@ -2598,3 +2598,5 @@ MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but C
 If Ruby is not and Perl is the answer then you don’t understand the question.
 
 A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+
+Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
