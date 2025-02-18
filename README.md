@@ -2614,3 +2614,5 @@ Why are fishes illiterate?Because C doesnt have Classes
 Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 
 4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
+
+Hand over the calculator... friends don’t let friends derive drunk.
