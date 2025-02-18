@@ -2628,3 +2628,5 @@ Chuck Norris can taste lies.
 Chuck Norris uses tabasco sauce instead of visine.
 
 Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+
+Chuck Norris does not teabag the ladies. He potato-sacks them.
