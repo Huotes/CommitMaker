@@ -2602,3 +2602,5 @@ A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha
 Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 
 The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+
+Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
