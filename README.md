@@ -2592,3 +2592,5 @@ Jack Bauer tried to use his detailed knowledge of torture techniques, but to no 
 We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 
 Chuck Norris lost his virginity before his dad did.
+
+MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
