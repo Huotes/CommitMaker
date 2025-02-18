@@ -2624,3 +2624,5 @@ Chuck Norris eats lightning and shits out thunder.
 Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
 
 Chuck Norris can taste lies.
+
+Chuck Norris uses tabasco sauce instead of visine.
