@@ -2622,3 +2622,5 @@ The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Wal
 Chuck Norris eats lightning and shits out thunder.
 
 Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+
+Chuck Norris can taste lies.
