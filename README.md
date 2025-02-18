@@ -2582,3 +2582,5 @@ Chuck Norris wears a live rattlesnake as a condom.
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 
 Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+
+Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
