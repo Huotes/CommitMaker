@@ -2626,3 +2626,5 @@ Faster than a speeding bullet... More powerful than a locomotive... Able to leap
 Chuck Norris can taste lies.
 
 Chuck Norris uses tabasco sauce instead of visine.
+
+Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
