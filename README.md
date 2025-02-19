@@ -2654,3 +2654,5 @@ Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 
 We live in an expanding universe. All of it is trying to get away from Chuck Norris.
+
+Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
