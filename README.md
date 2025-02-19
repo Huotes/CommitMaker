@@ -2648,3 +2648,5 @@ To Chuck Norris, everything contains a vulnerability.
 The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
 
 Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+
+Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
