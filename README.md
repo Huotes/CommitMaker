@@ -2638,3 +2638,5 @@ Chuck Norris got his drivers license at the age of 16. Seconds.
 Erro ao obter frase de meme da API.
 
 Erro ao obter frase de meme da API.
+
+If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
