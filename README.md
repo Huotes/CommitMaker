@@ -2646,3 +2646,5 @@ To Chuck Norris, everything contains a vulnerability.
 'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
 
 The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
+
+Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
