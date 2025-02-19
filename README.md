@@ -2644,3 +2644,5 @@ If you were somehow able to land a punch on Chuck Norris your entire arm would s
 To Chuck Norris, everything contains a vulnerability.
 
 'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
+
+The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
