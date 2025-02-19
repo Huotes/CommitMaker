@@ -2662,3 +2662,5 @@ Chuck Norris doesnt wear a watch, HE decides what time it is.
 Chuck Norris can do a wheelie on a unicycle.
 
 If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
+
+The quickest way to a man's heart is with Chuck Norris' fist.
