@@ -2630,3 +2630,5 @@ Chuck Norris uses tabasco sauce instead of visine.
 Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 
 Chuck Norris does not teabag the ladies. He potato-sacks them.
+
+Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
