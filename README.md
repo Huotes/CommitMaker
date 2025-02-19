@@ -2636,3 +2636,5 @@ Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ St
 Chuck Norris got his drivers license at the age of 16. Seconds.
 
 Erro ao obter frase de meme da API.
+
+Erro ao obter frase de meme da API.
