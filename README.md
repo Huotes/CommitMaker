@@ -2656,3 +2656,5 @@ Chuck Norris once ordered a steak in a restaurant. The steak did what it was tol
 We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 
 Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+
+Chuck Norris doesnt wear a watch, HE decides what time it is.
