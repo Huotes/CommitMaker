@@ -2668,3 +2668,5 @@ The quickest way to a man's heart is with Chuck Norris' fist.
 Chuck Norris can set ants on fire with a magnifying glass. At night.
 
 On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+
+After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
