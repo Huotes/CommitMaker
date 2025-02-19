@@ -2650,3 +2650,5 @@ The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhous
 Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 
 Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
+
+Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
