@@ -2652,3 +2652,5 @@ Chuck Norris does not own a stove, oven, or microwave , because revenge is a dis
 Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 
 Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+
+We live in an expanding universe. All of it is trying to get away from Chuck Norris.
