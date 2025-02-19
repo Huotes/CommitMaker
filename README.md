@@ -2672,3 +2672,5 @@ On his birthday, Chuck Norris randomly selects one lucky child to be thrown into
 After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 
 Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+
+Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
