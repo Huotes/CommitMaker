@@ -2676,3 +2676,5 @@ Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, i
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 
 They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
+
+Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
