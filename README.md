@@ -2658,3 +2658,5 @@ We live in an expanding universe. All of it is trying to get away from Chuck Nor
 Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 
 Chuck Norris doesnt wear a watch, HE decides what time it is.
+
+Chuck Norris can do a wheelie on a unicycle.
