@@ -2666,3 +2666,5 @@ If you were somehow able to land a punch on Chuck Norris your entire arm would s
 The quickest way to a man's heart is with Chuck Norris' fist.
 
 Chuck Norris can set ants on fire with a magnifying glass. At night.
+
+On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
