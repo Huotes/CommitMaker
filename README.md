@@ -2712,3 +2712,5 @@ In the medical community, death is referred to as 'Chuck Norris Disease'
 Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 
 Love does not hurt. Chuck Norris does.
+
+Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
