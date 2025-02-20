@@ -2682,3 +2682,5 @@ Algorith (noun.): Word used by programmers when... they do not want to explain w
 When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+
+Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
