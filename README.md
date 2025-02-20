@@ -2686,3 +2686,5 @@ Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and 
 Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
 
 Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+
+Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
