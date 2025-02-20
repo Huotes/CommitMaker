@@ -2700,3 +2700,5 @@ The Internet: where men are men women are men and children are FBI agents.
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
 
 Chuck Norris is his own line at the DMV.
+
+When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
