@@ -2694,3 +2694,5 @@ The only sure things are Death and Taxes?and when Chuck Norris goes to work for 
 Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 
 If Ruby is not and Perl is the answer then you don’t understand the question.
+
+The Internet: where men are men women are men and children are FBI agents.
