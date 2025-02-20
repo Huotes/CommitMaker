@@ -2702,3 +2702,5 @@ Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and foo
 Chuck Norris is his own line at the DMV.
 
 When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
+
+Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
