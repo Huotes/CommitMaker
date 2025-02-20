@@ -2716,3 +2716,5 @@ Love does not hurt. Chuck Norris does.
 Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 
 Fact: Chuck Norris doesn't consider it sex if the woman survives.
+
+The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
