@@ -2710,3 +2710,5 @@ Chuck Norris is not Politically Correct. He is just Correct. Always.
 In the medical community, death is referred to as 'Chuck Norris Disease'
 
 Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
+
+Love does not hurt. Chuck Norris does.
