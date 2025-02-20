@@ -2698,3 +2698,5 @@ If Ruby is not and Perl is the answer then you don’t understand the question.
 The Internet: where men are men women are men and children are FBI agents.
 
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+
+Chuck Norris is his own line at the DMV.
