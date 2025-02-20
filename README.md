@@ -2684,3 +2684,5 @@ When Arnold says 'I'll be back' in Terminator movie it is implied that he's goin
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 
 Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
+
+Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
