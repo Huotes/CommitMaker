@@ -2714,3 +2714,5 @@ Chuck Norris once shot down a German fighter plane with his finger. By yelling '
 Love does not hurt. Chuck Norris does.
 
 Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+
+Fact: Chuck Norris doesn't consider it sex if the woman survives.
