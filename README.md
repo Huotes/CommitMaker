@@ -2696,3 +2696,5 @@ Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as
 If Ruby is not and Perl is the answer then you don’t understand the question.
 
 The Internet: where men are men women are men and children are FBI agents.
+
+Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
