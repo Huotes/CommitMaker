@@ -2680,3 +2680,5 @@ They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kick
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 
 When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+
+Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
