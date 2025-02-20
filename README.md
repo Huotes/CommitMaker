@@ -2708,3 +2708,5 @@ Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
 Chuck Norris is not Politically Correct. He is just Correct. Always.
 
 In the medical community, death is referred to as 'Chuck Norris Disease'
+
+Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
