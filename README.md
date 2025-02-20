@@ -2690,3 +2690,5 @@ Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of S
 Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
 
 The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+
+Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
