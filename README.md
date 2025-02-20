@@ -2678,3 +2678,5 @@ Chuck Norris can't finish a 'color by numbers' because his markers are filled wi
 They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
 
 Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+
+When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
