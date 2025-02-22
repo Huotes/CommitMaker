@@ -2796,3 +2796,5 @@ The more I C.... the less I see.
 A foo walks into a bar, takes a look around and says 'Hello World!'.
 
 Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+
+For Chuck Norris, NP-Hard = O(1).
