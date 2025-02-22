@@ -2784,3 +2784,5 @@ Chuck Norris has banned rainbows from the state of North Dakota.
 When Chuck Norris throws exceptions, it's across the room.
 
 Chuck Norris programs do not accept input.
+
+3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
