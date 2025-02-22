@@ -2780,3 +2780,5 @@ Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months la
 C://dos  <br>C://dos.run  <br>run.dos.run
 
 Chuck Norris has banned rainbows from the state of North Dakota.
+
+When Chuck Norris throws exceptions, it's across the room.
