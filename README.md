@@ -2788,3 +2788,5 @@ Chuck Norris programs do not accept input.
 3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 
 Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+
+Chuck Norris is the only person in the world that can actually email a roundhouse kick.
