@@ -2782,3 +2782,5 @@ C://dos  <br>C://dos.run  <br>run.dos.run
 Chuck Norris has banned rainbows from the state of North Dakota.
 
 When Chuck Norris throws exceptions, it's across the room.
+
+Chuck Norris programs do not accept input.
