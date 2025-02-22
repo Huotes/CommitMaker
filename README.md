@@ -2812,3 +2812,5 @@ Chuck Norris does not eat. Food understands that the only safe haven from Chuck 
 Hand over the calculator... friends don’t let friends derive drunk.
 
 When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+
+On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
