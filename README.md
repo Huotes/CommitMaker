@@ -2810,3 +2810,5 @@ Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grai
 Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
 
 Hand over the calculator... friends don’t let friends derive drunk.
+
+When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
