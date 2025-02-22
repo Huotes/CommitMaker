@@ -2818,3 +2818,5 @@ On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life
 The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 
 Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+
+The only pattern Chuck Norris knows is God Object.
