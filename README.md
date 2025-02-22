@@ -2802,3 +2802,5 @@ For Chuck Norris, NP-Hard = O(1).
 Chuck Norris got his drivers license at the age of 16. Seconds.
 
 When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+
+Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
