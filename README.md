@@ -2808,3 +2808,5 @@ Chuck Norris is the only man who has, literally, beaten the odds. With his fists
 Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 
 Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
+
+Hand over the calculator... friends don’t let friends derive drunk.
