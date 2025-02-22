@@ -2774,3 +2774,5 @@ There is no such thing as global warming. Chuck Norris was cold, so he turned th
 4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
 
 Nobody doesn't like Sara Lee. Except Chuck Norris.
+
+Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
