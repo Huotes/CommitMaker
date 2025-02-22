@@ -2792,3 +2792,5 @@ Hacking is like sex. You get in... you get out... and hope that you didn’t lea
 Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 
 The more I C.... the less I see.
+
+A foo walks into a bar, takes a look around and says 'Hello World!'.
