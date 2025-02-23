@@ -2834,3 +2834,5 @@ Chuck Norris is the only person in the world that can actually email a roundhous
 Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 
 99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
+
+Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
