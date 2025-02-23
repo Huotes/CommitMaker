@@ -2832,3 +2832,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 
 Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+
+99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
