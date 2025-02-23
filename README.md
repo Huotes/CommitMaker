@@ -2838,3 +2838,5 @@ Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in
 Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 
 In the medical community, death is referred to as 'Chuck Norris Disease'
+
+Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
