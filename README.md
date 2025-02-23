@@ -2836,3 +2836,5 @@ Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in
 99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 
 Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+
+In the medical community, death is referred to as 'Chuck Norris Disease'
