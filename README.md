@@ -2822,3 +2822,5 @@ Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and 
 The only pattern Chuck Norris knows is God Object.
 
 Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
+
+Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint remover, and wood-grain alcohol.
