@@ -2854,3 +2854,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 
 Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+
+Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
