@@ -2864,3 +2864,5 @@ Chuck Norris's keyboard has the Any key.
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7be0cb36f860>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+
+Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
