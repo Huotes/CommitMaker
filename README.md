@@ -2898,3 +2898,5 @@ The original draft of The Lord of the Rings featured Chuck Norris instead of Fro
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 
 Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+
+Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
