@@ -2870,3 +2870,5 @@ Chuck Norris can hit you so hard that he can actually alter your DNA. Decades fr
 When Chuck Norris does division, there are no remainders.
 
 CPU (Coffee Processing Unit)
+
+Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
