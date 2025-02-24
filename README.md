@@ -2910,3 +2910,5 @@ Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colomb
 Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
 
 When Chuck Norris makes a burrito, its main ingredient is real toes.
+
+I've got a really good UDP joke to tell you, but i don't know if you'll get it
