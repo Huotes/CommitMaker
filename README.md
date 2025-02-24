@@ -2914,3 +2914,5 @@ When Chuck Norris makes a burrito, its main ingredient is real toes.
 I've got a really good UDP joke to tell you, but i don't know if you'll get it
 
 Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
+
+Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
