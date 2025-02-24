@@ -2896,3 +2896,5 @@ Chuck Norris doesn't use web standards as the web will conform to him.
 The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
 
 Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+
+Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
