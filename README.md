@@ -2890,3 +2890,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris once won a game of connect four in 3 moves.
 
 Chuck Norris solved the halting problem.
+
+Chuck Norris doesn't use web standards as the web will conform to him.
