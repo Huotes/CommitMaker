@@ -2872,3 +2872,5 @@ When Chuck Norris does division, there are no remainders.
 CPU (Coffee Processing Unit)
 
 Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
+
+Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
