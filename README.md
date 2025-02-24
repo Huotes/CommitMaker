@@ -2912,3 +2912,5 @@ Chuck Norris has never been accused of murder because his roundhouse kicks are r
 When Chuck Norris makes a burrito, its main ingredient is real toes.
 
 I've got a really good UDP joke to tell you, but i don't know if you'll get it
+
+Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
