@@ -2906,3 +2906,5 @@ Black holes are where God divided by zero.
 Chuck Norris went out of an infinite loop.
 
 Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
+
+Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
