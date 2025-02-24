@@ -2902,3 +2902,5 @@ Chuck Norris once went skydiving, but promised never to do it again. One Grand C
 Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
 
 Black holes are where God divided by zero.
+
+Chuck Norris went out of an infinite loop.
