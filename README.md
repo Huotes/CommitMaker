@@ -2892,3 +2892,5 @@ Chuck Norris once won a game of connect four in 3 moves.
 Chuck Norris solved the halting problem.
 
 Chuck Norris doesn't use web standards as the web will conform to him.
+
+The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
