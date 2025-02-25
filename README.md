@@ -2928,3 +2928,5 @@ Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer 
 Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 
 A foo walks into a bar, takes a look around and says 'Hello World!'.
+
+SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
