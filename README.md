@@ -2958,3 +2958,5 @@ Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 
 CAPS LOCK – Preventing Login Since 1980.
+
+Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
