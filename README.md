@@ -2922,3 +2922,5 @@ Chuck Norris doesnt wear a watch, HE decides what time it is.
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 
 Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+
+Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
