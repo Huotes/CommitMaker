@@ -2926,3 +2926,5 @@ Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 
 Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+
+A foo walks into a bar, takes a look around and says 'Hello World!'.
