@@ -2920,3 +2920,5 @@ Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
 Chuck Norris doesnt wear a watch, HE decides what time it is.
 
 Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+
+Chuck Norris programs occupy 150% of CPU, even when they are not executing.
