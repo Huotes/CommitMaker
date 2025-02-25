@@ -2918,3 +2918,5 @@ Chuck Norris once ate a whole cake before his friends could tell him there was a
 Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
 
 Chuck Norris doesnt wear a watch, HE decides what time it is.
+
+Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
