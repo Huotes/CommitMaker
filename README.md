@@ -2950,3 +2950,5 @@ Chuck Norris is currently suing myspace for taking the name of what he calls eve
 Why is C sad? Because C++ told him 'You have no class'.
 
 The only pattern Chuck Norris knows is God Object.
+
+Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
