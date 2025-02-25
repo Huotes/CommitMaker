@@ -2952,3 +2952,5 @@ Why is C sad? Because C++ told him 'You have no class'.
 The only pattern Chuck Norris knows is God Object.
 
 Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
+
+Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
