@@ -2956,3 +2956,5 @@ Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+
+CAPS LOCK – Preventing Login Since 1980.
