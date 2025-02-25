@@ -2936,3 +2936,5 @@ Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443
 Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
 
 In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+
+It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
