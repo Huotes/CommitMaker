@@ -2986,3 +2986,5 @@ Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 What do computers and air conditioners have in common? They both become useless when you open windows.
 
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7c2f780ee6f0>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
+
+Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
