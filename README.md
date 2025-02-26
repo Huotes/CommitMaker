@@ -2988,3 +2988,5 @@ What do computers and air conditioners have in common? They both become useless 
 Erro na API: HTTPSConnectionPool(host='geek-jokes.sameerkumar.website', port=443): Max retries exceeded with url: /api?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7c2f780ee6f0>: Failed to resolve 'geek-jokes.sameerkumar.website' ([Errno -3] Temporary failure in name resolution)"))
 
 Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
+
+Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
