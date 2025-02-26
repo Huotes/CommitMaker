@@ -2970,3 +2970,5 @@ Chuck Norris was what Willis was talkin' about.
 Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 
 Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+
+Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
