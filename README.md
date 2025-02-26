@@ -2996,3 +2996,5 @@ In ancient China there is a legend that one day a child will be born from a drag
 In the medical community, death is referred to as 'Chuck Norris Disease'
 
 Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
+
+Chuck Norris? favourite cut of meat is the roundhouse.
