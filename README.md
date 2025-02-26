@@ -3000,3 +3000,5 @@ Chuck Norris does not follow fashion trends, they follow him. But then he turns 
 Chuck Norris? favourite cut of meat is the roundhouse.
 
 Whiteboards are white because Chuck Norris scared them that way.
+
+When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
