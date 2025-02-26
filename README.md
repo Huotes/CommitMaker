@@ -3002,3 +3002,5 @@ Chuck Norris? favourite cut of meat is the roundhouse.
 Whiteboards are white because Chuck Norris scared them that way.
 
 When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
+
+70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
