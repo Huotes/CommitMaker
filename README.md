@@ -3008,3 +3008,5 @@ When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35,
 Time waits for no man. Unless that man is Chuck Norris.
 
 In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+
+Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
