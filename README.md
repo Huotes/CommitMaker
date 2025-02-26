@@ -3006,3 +3006,5 @@ When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35,
 70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
 
 Time waits for no man. Unless that man is Chuck Norris.
+
+In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
