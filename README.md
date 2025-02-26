@@ -2982,3 +2982,5 @@ Chuck Norris knows everything there is to know - Except for the definition of me
 SON: What are clouds made of? DAD: Linux servers, mostly
 
 Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+
+What do computers and air conditioners have in common? They both become useless when you open windows.
