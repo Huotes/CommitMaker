@@ -2992,3 +2992,5 @@ Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' cont
 Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 
 In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
+
+In the medical community, death is referred to as 'Chuck Norris Disease'
