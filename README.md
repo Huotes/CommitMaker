@@ -3020,3 +3020,5 @@ Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, 
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
 
 Chuck Norris lost his virginity before his dad did.
+
+How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
