@@ -3050,3 +3050,5 @@ All wiyht. Rho sritched mg kegtops awound?
 A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 
 Chuck Norris doesn't use web standards as the web will conform to him.
+
+SON: What are clouds made of? DAD: Linux servers, mostly
