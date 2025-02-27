@@ -3016,3 +3016,5 @@ According to the Bible, God created the universe in six days. Before that, Chuck
 When Chuck Norris does division, there are no remainders.
 
 Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
+
+No one has ever pair-programmed with Chuck Norris and lived to tell about it.
