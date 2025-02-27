@@ -3036,3 +3036,5 @@ Chuck Norris grinds his coffee with his teeth and boils the water with his own r
 Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 
 Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
+
+They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
