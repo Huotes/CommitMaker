@@ -3032,3 +3032,5 @@ Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 Chuck Norris insists on strongly-typed programming languages.
 
 Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+
+Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
