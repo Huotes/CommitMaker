@@ -3026,3 +3026,5 @@ How many theoretical physicists does it take to screw in a light bulb? Two. One 
 Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+
+Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
