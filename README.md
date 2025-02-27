@@ -3042,3 +3042,5 @@ They say curiosity killed the cat. This is false. Chuck Norris killed the cat. E
 How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 
 If at first you don’t succeed; call it version 1.0.
+
+All wiyht. Rho sritched mg kegtops awound?
