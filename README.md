@@ -3028,3 +3028,5 @@ Chuck Norris doesn't have disk latency because the hard drive knows to hurry the
 Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+
+Chuck Norris insists on strongly-typed programming languages.
