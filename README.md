@@ -3018,3 +3018,5 @@ When Chuck Norris does division, there are no remainders.
 Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
 
 No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+
+Chuck Norris lost his virginity before his dad did.
