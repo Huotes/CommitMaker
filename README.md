@@ -3030,3 +3030,5 @@ Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 
 Chuck Norris insists on strongly-typed programming languages.
+
+Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
