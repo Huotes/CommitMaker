@@ -3024,3 +3024,5 @@ Chuck Norris lost his virginity before his dad did.
 How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 
 Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+
+Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
