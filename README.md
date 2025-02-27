@@ -3046,3 +3046,5 @@ If at first you don’t succeed; call it version 1.0.
 All wiyht. Rho sritched mg kegtops awound?
 
 # Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
+
+A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
