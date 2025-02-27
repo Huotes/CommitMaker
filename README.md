@@ -3044,3 +3044,5 @@ How do you tell an introverted computer scientist from an extroverted computer s
 If at first you don’t succeed; call it version 1.0.
 
 All wiyht. Rho sritched mg kegtops awound?
+
+# Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
