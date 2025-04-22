@@ -3080,3 +3080,5 @@ Chuck Norris solved the halting problem.
 When Chuck Norris plays Monopoly, it affects the actual world economy.
 
 Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+
+In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
